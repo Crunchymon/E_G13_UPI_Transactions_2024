@@ -33,7 +33,46 @@ If you are working in Google Colab:
 
 ---
 
+## Business Problem
+This project analyzes **250,000 UPI transactions** from 2024 to help stakeholders with **Fraud Detection**, **Payment Reliability**, and **User Growth**.
+
+---
+
+## 3 Key Dashboards
+
+### 1. Fraud Intelligence Dashboard
+- **Stakeholders**: Law Enforcement, Risk & Compliance Teams
+- Identifies high fraud states, time windows, devices, and patterns.
+- Uses: `fraud_flag`, `sender_state`, `hour_of_day`, `device_type`
+
+### 2. Payment Reliability Dashboard
+- **Stakeholders**: Operations & Engineering Teams (PhonePe, GPay, Banks, NPCI)
+- Shows where and why transactions are failing.
+- Uses: `transaction_status`, `failure_flag`, `is_peak_hour`, `sender_bank`
+
+### 3. User Behavior & Growth Dashboard
+- **Stakeholders**: Product & Growth Teams
+- Helps find high-value user segments and growth opportunities.
+- Uses: `sender_age_group`, `sender_state`, `transaction_type`, `amount_inr`
+
+---
+
+## Key Features Added
+- Cleaned dataset with derived columns (`failure_flag`, `is_peak_hour`, `user_segment`, etc.)
+- 3 Ready-to-use aggregated files in `data/processed/`
+- Outlier detection & logical consistency checks
+
+---
+
+## Folder Structure
+- `data/processed/` → `fraud_aggregated.csv`, `reliability_aggregated.csv`, `user_behavior_aggregated.csv`
+- `notebooks/` → Cleaning + Analysis
+- `tableau/` → Dashboards (to be added)
+
+---
+
 ## Project Overview
+Analyzed 25,000+ UPI transactions from 2024 with 3 business dashboards.
 
 | Field | Details |
 |---|---|
@@ -44,6 +83,8 @@ If you are working in Google Colab:
 | **Faculty Mentor** | _To be filled by team_ |
 | **Institute** | Newton School of Technology |
 | **Submission Date** | _To be filled by team_ |
+
+---
 
 ### Team Members
 
@@ -60,8 +101,17 @@ If you are working in Google Colab:
 ---
 
 ## Business Problem
+UPI transactions in India reached massive scale in 2024. Banks, NPCI, and apps like PhonePe, GPay need better insights to stop fraud, improve reliability, and grow business.
 
-_Describe the sector context, the decision-maker this project serves, and the core business challenge being addressed. Keep this to 3-5 sentences written in plain language, as if addressing a senior stakeholder._
+### 3 Key Dashboards Added:
+1. **Fraud Intelligence Dashboard**  
+   Helps Law Enforcement & Risk teams find where and how fraud is happening.
+
+2. **Payment Reliability Dashboard**  
+   Helps engineering teams understand why transactions fail and fix them.
+
+3. **User Behavior & Growth Dashboard**  
+   Helps product teams find which users to target for more transactions.
 
 **Core Business Question**
 
@@ -94,6 +144,25 @@ _Describe the sector context, the decision-maker this project serves, and the co
 | _column_4_ | _What it means_ | _Used for KPI / filter / segmentation_ |
 
 For full column definitions, see [`docs/data_dictionary.md`](docs/data_dictionary.md).
+
+---
+
+## Key KPIs
+
+**Fraud Intelligence:**
+- Fraud Rate (%) 
+- Top Fraud States & Hours
+- Fraud by Device Type & Amount
+
+**Payment Reliability:**
+- Success Rate (%)
+- Failure Rate by Bank, Device & Network
+- Peak Hour Failure Rate
+
+**User Behavior & Growth:**
+- Transaction Volume & Value by Age Group & State
+- Most Common Transaction Types
+- High Potential Segments
 
 ---
 

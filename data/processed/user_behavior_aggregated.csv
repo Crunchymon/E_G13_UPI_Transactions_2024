@@ -1,0 +1,1996 @@
+sender_age_group,sender_state,transaction_type,merchant_category,total_transactions,total_value,avg_transaction_value,fraud_count
+18-25,andhra pradesh,bill payment,education,29,84689,2920.31,0
+18-25,andhra pradesh,bill payment,entertainment,52,26676,513.0,0
+18-25,andhra pradesh,bill payment,food,100,59261,592.61,0
+18-25,andhra pradesh,bill payment,fuel,75,106452,1419.36,0
+18-25,andhra pradesh,bill payment,grocery,160,144452,902.82,0
+18-25,andhra pradesh,bill payment,healthcare,36,9885,274.58,0
+18-25,andhra pradesh,bill payment,other,72,73016,1014.11,0
+18-25,andhra pradesh,bill payment,shopping,79,189328,2396.56,2
+18-25,andhra pradesh,bill payment,transport,75,30706,409.41,1
+18-25,andhra pradesh,bill payment,utilities,78,112256,1439.18,0
+18-25,andhra pradesh,p2m,education,63,206456,3277.08,1
+18-25,andhra pradesh,p2m,entertainment,139,69432,499.51,0
+18-25,andhra pradesh,p2m,food,238,149657,628.81,0
+18-25,andhra pradesh,p2m,fuel,168,211854,1261.04,2
+18-25,andhra pradesh,p2m,grocery,291,300247,1031.78,1
+18-25,andhra pradesh,p2m,healthcare,91,32976,362.37,0
+18-25,andhra pradesh,p2m,other,183,155361,848.97,0
+18-25,andhra pradesh,p2m,shopping,199,640325,3217.71,1
+18-25,andhra pradesh,p2m,transport,153,49628,324.37,0
+18-25,andhra pradesh,p2m,utilities,173,276767,1599.81,0
+18-25,andhra pradesh,p2p,education,61,184684,3027.61,0
+18-25,andhra pradesh,p2p,entertainment,168,85197,507.12,0
+18-25,andhra pradesh,p2p,food,346,201122,581.28,0
+18-25,andhra pradesh,p2p,fuel,198,250306,1264.17,0
+18-25,andhra pradesh,p2p,grocery,450,410815,912.92,0
+18-25,andhra pradesh,p2p,healthcare,125,36772,294.18,0
+18-25,andhra pradesh,p2p,other,233,236211,1013.78,0
+18-25,andhra pradesh,p2p,shopping,310,979439,3159.48,1
+18-25,andhra pradesh,p2p,transport,177,62120,350.96,0
+18-25,andhra pradesh,p2p,utilities,220,367049,1668.4,0
+18-25,andhra pradesh,recharge,education,7,21531,3075.86,0
+18-25,andhra pradesh,recharge,entertainment,20,9174,458.7,0
+18-25,andhra pradesh,recharge,food,42,24818,590.9,0
+18-25,andhra pradesh,recharge,fuel,17,27926,1642.71,0
+18-25,andhra pradesh,recharge,grocery,51,44860,879.61,1
+18-25,andhra pradesh,recharge,healthcare,16,5005,312.81,0
+18-25,andhra pradesh,recharge,other,24,25014,1042.25,0
+18-25,andhra pradesh,recharge,shopping,37,74656,2017.73,0
+18-25,andhra pradesh,recharge,transport,19,4334,228.11,0
+18-25,andhra pradesh,recharge,utilities,16,18675,1167.19,0
+18-25,delhi,bill payment,education,38,114995,3026.18,0
+18-25,delhi,bill payment,entertainment,84,40107,477.46,0
+18-25,delhi,bill payment,food,129,78022,604.82,0
+18-25,delhi,bill payment,fuel,91,114140,1254.29,1
+18-25,delhi,bill payment,grocery,183,192505,1051.94,0
+18-25,delhi,bill payment,healthcare,44,16563,376.43,1
+18-25,delhi,bill payment,other,96,93612,975.12,0
+18-25,delhi,bill payment,shopping,110,374919,3408.35,0
+18-25,delhi,bill payment,transport,77,22552,292.88,0
+18-25,delhi,bill payment,utilities,85,141119,1660.22,0
+18-25,delhi,p2m,education,60,169467,2824.45,0
+18-25,delhi,p2m,entertainment,166,84739,510.48,0
+18-25,delhi,p2m,food,319,178018,558.05,1
+18-25,delhi,p2m,fuel,240,358264,1492.77,0
+18-25,delhi,p2m,grocery,430,415434,966.13,0
+18-25,delhi,p2m,healthcare,103,40259,390.86,0
+18-25,delhi,p2m,other,212,178696,842.91,1
+18-25,delhi,p2m,shopping,263,810653,3082.33,1
+18-25,delhi,p2m,transport,175,67147,383.7,0
+18-25,delhi,p2m,utilities,200,358723,1793.62,0
+18-25,delhi,p2p,education,91,305845,3360.93,0
+18-25,delhi,p2p,entertainment,247,125696,508.89,2
+18-25,delhi,p2p,food,429,246977,575.7,1
+18-25,delhi,p2p,fuel,257,375497,1461.08,0
+18-25,delhi,p2p,grocery,535,502617,939.47,1
+18-25,delhi,p2p,healthcare,139,44022,316.71,0
+18-25,delhi,p2p,other,278,274510,987.45,0
+18-25,delhi,p2p,shopping,344,1027252,2986.2,1
+18-25,delhi,p2p,transport,236,79853,338.36,0
+18-25,delhi,p2p,utilities,231,389179,1684.76,1
+18-25,delhi,recharge,education,10,36160,3616.0,0
+18-25,delhi,recharge,entertainment,17,6985,410.88,0
+18-25,delhi,recharge,food,41,18093,441.29,0
+18-25,delhi,recharge,fuel,29,30463,1050.45,0
+18-25,delhi,recharge,grocery,59,54415,922.29,0
+18-25,delhi,recharge,healthcare,16,5443,340.19,0
+18-25,delhi,recharge,other,30,21622,720.73,0
+18-25,delhi,recharge,shopping,33,99975,3029.55,0
+18-25,delhi,recharge,transport,20,5322,266.1,0
+18-25,delhi,recharge,utilities,23,33084,1438.43,0
+18-25,gujarat,bill payment,education,21,62573,2979.67,0
+18-25,gujarat,bill payment,entertainment,60,29165,486.08,0
+18-25,gujarat,bill payment,food,120,73480,612.33,0
+18-25,gujarat,bill payment,fuel,76,103867,1366.67,0
+18-25,gujarat,bill payment,grocery,159,155636,978.84,1
+18-25,gujarat,bill payment,healthcare,33,10570,320.3,0
+18-25,gujarat,bill payment,other,74,74302,1004.08,0
+18-25,gujarat,bill payment,shopping,73,194630,2666.16,0
+18-25,gujarat,bill payment,transport,57,16811,294.93,1
+18-25,gujarat,bill payment,utilities,66,109346,1656.76,0
+18-25,gujarat,p2m,education,53,170545,3217.83,1
+18-25,gujarat,p2m,entertainment,131,69870,533.36,0
+18-25,gujarat,p2m,food,241,138410,574.32,0
+18-25,gujarat,p2m,fuel,181,255771,1413.1,0
+18-25,gujarat,p2m,grocery,380,358346,943.02,3
+18-25,gujarat,p2m,healthcare,85,28812,338.96,0
+18-25,gujarat,p2m,other,172,151714,882.06,0
+18-25,gujarat,p2m,shopping,208,587399,2824.03,3
+18-25,gujarat,p2m,transport,124,44082,355.5,0
+18-25,gujarat,p2m,utilities,159,261167,1642.56,0
+18-25,gujarat,p2p,education,59,163727,2775.03,1
+18-25,gujarat,p2p,entertainment,178,88054,494.69,1
+18-25,gujarat,p2p,food,340,169572,498.74,2
+18-25,gujarat,p2p,fuel,244,319899,1311.06,1
+18-25,gujarat,p2p,grocery,461,443815,962.72,0
+18-25,gujarat,p2p,healthcare,118,36758,311.51,0
+18-25,gujarat,p2p,other,203,183952,906.17,1
+18-25,gujarat,p2p,shopping,278,758633,2728.9,0
+18-25,gujarat,p2p,transport,165,65651,397.88,2
+18-25,gujarat,p2p,utilities,195,314557,1613.11,2
+18-25,gujarat,recharge,education,12,60661,5055.08,0
+18-25,gujarat,recharge,entertainment,13,7980,613.85,0
+18-25,gujarat,recharge,food,41,21482,523.95,0
+18-25,gujarat,recharge,fuel,23,40407,1756.83,0
+18-25,gujarat,recharge,grocery,61,79593,1304.8,0
+18-25,gujarat,recharge,healthcare,13,4001,307.77,0
+18-25,gujarat,recharge,other,30,26418,880.6,0
+18-25,gujarat,recharge,shopping,31,82442,2659.42,0
+18-25,gujarat,recharge,transport,18,6357,353.17,0
+18-25,gujarat,recharge,utilities,24,35256,1469.0,0
+18-25,karnataka,bill payment,education,36,127844,3551.22,0
+18-25,karnataka,bill payment,entertainment,83,43025,518.37,1
+18-25,karnataka,bill payment,food,161,96230,597.7,0
+18-25,karnataka,bill payment,fuel,98,130511,1331.74,0
+18-25,karnataka,bill payment,grocery,222,208448,938.95,2
+18-25,karnataka,bill payment,healthcare,57,18684,327.79,0
+18-25,karnataka,bill payment,other,114,97841,858.25,0
+18-25,karnataka,bill payment,shopping,135,384654,2849.29,2
+18-25,karnataka,bill payment,transport,95,28620,301.26,0
+18-25,karnataka,bill payment,utilities,86,117637,1367.87,0
+18-25,karnataka,p2m,education,89,271154,3046.67,0
+18-25,karnataka,p2m,entertainment,190,98217,516.93,1
+18-25,karnataka,p2m,food,413,239054,578.82,3
+18-25,karnataka,p2m,fuel,270,372666,1380.24,1
+18-25,karnataka,p2m,grocery,517,441573,854.11,2
+18-25,karnataka,p2m,healthcare,130,37611,289.32,0
+18-25,karnataka,p2m,other,266,233136,876.45,1
+18-25,karnataka,p2m,shopping,329,1000570,3041.25,1
+18-25,karnataka,p2m,transport,187,56547,302.39,1
+18-25,karnataka,p2m,utilities,219,361896,1652.49,0
+18-25,karnataka,p2p,education,102,340624,3339.45,1
+18-25,karnataka,p2p,entertainment,253,132145,522.31,0
+18-25,karnataka,p2p,food,527,296633,562.87,0
+18-25,karnataka,p2p,fuel,308,404469,1313.21,0
+18-25,karnataka,p2p,grocery,641,632470,986.69,1
+18-25,karnataka,p2p,healthcare,160,56381,352.38,0
+18-25,karnataka,p2p,other,316,295655,935.62,1
+18-25,karnataka,p2p,shopping,414,1261966,3048.23,0
+18-25,karnataka,p2p,transport,276,95351,345.47,2
+18-25,karnataka,p2p,utilities,287,469976,1637.55,1
+18-25,karnataka,recharge,education,11,31889,2899.0,0
+18-25,karnataka,recharge,entertainment,22,14023,637.41,0
+18-25,karnataka,recharge,food,63,35867,569.32,0
+18-25,karnataka,recharge,fuel,35,51271,1464.89,0
+18-25,karnataka,recharge,grocery,68,59400,873.53,1
+18-25,karnataka,recharge,healthcare,18,6242,346.78,1
+18-25,karnataka,recharge,other,32,27585,862.03,0
+18-25,karnataka,recharge,shopping,45,123294,2739.87,1
+18-25,karnataka,recharge,transport,33,10519,318.76,0
+18-25,karnataka,recharge,utilities,36,66589,1849.69,0
+18-25,maharashtra,bill payment,education,33,110573,3350.7,0
+18-25,maharashtra,bill payment,entertainment,107,48996,457.91,0
+18-25,maharashtra,bill payment,food,214,113266,529.28,0
+18-25,maharashtra,bill payment,fuel,142,190607,1342.3,0
+18-25,maharashtra,bill payment,grocery,284,282654,995.26,0
+18-25,maharashtra,bill payment,healthcare,69,21548,312.29,0
+18-25,maharashtra,bill payment,other,144,132295,918.72,1
+18-25,maharashtra,bill payment,shopping,167,516470,3092.63,0
+18-25,maharashtra,bill payment,transport,112,34759,310.35,0
+18-25,maharashtra,bill payment,utilities,120,184640,1538.67,1
+18-25,maharashtra,p2m,education,94,288793,3072.27,0
+18-25,maharashtra,p2m,entertainment,242,120366,497.38,1
+18-25,maharashtra,p2m,food,499,279293,559.71,1
+18-25,maharashtra,p2m,fuel,335,514396,1535.51,0
+18-25,maharashtra,p2m,grocery,648,640965,989.14,2
+18-25,maharashtra,p2m,healthcare,145,44522,307.05,1
+18-25,maharashtra,p2m,other,317,284134,896.32,0
+18-25,maharashtra,p2m,shopping,398,1273991,3200.98,1
+18-25,maharashtra,p2m,transport,268,95849,357.65,0
+18-25,maharashtra,p2m,utilities,279,435706,1561.67,0
+18-25,maharashtra,p2p,education,126,371036,2944.73,1
+18-25,maharashtra,p2p,entertainment,348,169443,486.91,4
+18-25,maharashtra,p2p,food,658,374312,568.86,2
+18-25,maharashtra,p2p,fuel,474,651567,1374.61,2
+18-25,maharashtra,p2p,grocery,858,794823,926.37,4
+18-25,maharashtra,p2p,healthcare,214,75874,354.55,0
+18-25,maharashtra,p2p,other,448,385409,860.29,0
+18-25,maharashtra,p2p,shopping,501,1597775,3189.17,0
+18-25,maharashtra,p2p,transport,312,104700,335.58,0
+18-25,maharashtra,p2p,utilities,385,638570,1658.62,0
+18-25,maharashtra,recharge,education,16,45287,2830.44,1
+18-25,maharashtra,recharge,entertainment,32,16093,502.91,0
+18-25,maharashtra,recharge,food,70,42499,607.13,0
+18-25,maharashtra,recharge,fuel,45,69883,1552.96,0
+18-25,maharashtra,recharge,grocery,103,98601,957.29,0
+18-25,maharashtra,recharge,healthcare,25,8289,331.56,1
+18-25,maharashtra,recharge,other,40,32889,822.22,0
+18-25,maharashtra,recharge,shopping,68,196398,2888.21,0
+18-25,maharashtra,recharge,transport,33,13910,421.52,0
+18-25,maharashtra,recharge,utilities,45,63044,1400.98,0
+18-25,rajasthan,bill payment,education,16,56714,3544.62,0
+18-25,rajasthan,bill payment,entertainment,45,20826,462.8,0
+18-25,rajasthan,bill payment,food,103,61902,600.99,0
+18-25,rajasthan,bill payment,fuel,52,86547,1664.37,0
+18-25,rajasthan,bill payment,grocery,141,129141,915.89,1
+18-25,rajasthan,bill payment,healthcare,47,16890,359.36,0
+18-25,rajasthan,bill payment,other,49,50709,1034.88,0
+18-25,rajasthan,bill payment,shopping,102,329804,3233.37,0
+18-25,rajasthan,bill payment,transport,59,16120,273.22,0
+18-25,rajasthan,bill payment,utilities,63,114451,1816.68,0
+18-25,rajasthan,p2m,education,59,167126,2832.64,0
+18-25,rajasthan,p2m,entertainment,138,78505,568.88,0
+18-25,rajasthan,p2m,food,252,142220,564.37,2
+18-25,rajasthan,p2m,fuel,190,273390,1438.89,0
+18-25,rajasthan,p2m,grocery,346,314256,908.25,0
+18-25,rajasthan,p2m,healthcare,78,21401,274.37,0
+18-25,rajasthan,p2m,other,151,143392,949.62,0
+18-25,rajasthan,p2m,shopping,195,592723,3039.61,1
+18-25,rajasthan,p2m,transport,160,61173,382.33,1
+18-25,rajasthan,p2m,utilities,156,281013,1801.37,0
+18-25,rajasthan,p2p,education,66,213190,3230.15,0
+18-25,rajasthan,p2p,entertainment,192,94590,492.66,0
+18-25,rajasthan,p2p,food,325,189298,582.46,0
+18-25,rajasthan,p2p,fuel,224,335819,1499.19,2
+18-25,rajasthan,p2p,grocery,436,425999,977.06,1
+18-25,rajasthan,p2p,healthcare,126,41722,331.13,0
+18-25,rajasthan,p2p,other,210,197237,939.22,0
+18-25,rajasthan,p2p,shopping,297,832727,2803.79,3
+18-25,rajasthan,p2p,transport,165,57047,345.74,0
+18-25,rajasthan,p2p,utilities,182,290433,1595.79,0
+18-25,rajasthan,recharge,education,8,18113,2264.12,0
+18-25,rajasthan,recharge,entertainment,24,14499,604.12,0
+18-25,rajasthan,recharge,food,51,25734,504.59,1
+18-25,rajasthan,recharge,fuel,20,26328,1316.4,0
+18-25,rajasthan,recharge,grocery,44,39140,889.55,0
+18-25,rajasthan,recharge,healthcare,7,2712,387.43,0
+18-25,rajasthan,recharge,other,22,17667,803.05,0
+18-25,rajasthan,recharge,shopping,30,92996,3099.87,0
+18-25,rajasthan,recharge,transport,19,7299,384.16,0
+18-25,rajasthan,recharge,utilities,21,39011,1857.67,0
+18-25,tamil nadu,bill payment,education,27,82035,3038.33,0
+18-25,tamil nadu,bill payment,entertainment,64,30233,472.39,0
+18-25,tamil nadu,bill payment,food,170,105148,618.52,0
+18-25,tamil nadu,bill payment,fuel,94,130394,1387.17,1
+18-25,tamil nadu,bill payment,grocery,191,189162,990.38,0
+18-25,tamil nadu,bill payment,healthcare,52,14435,277.6,0
+18-25,tamil nadu,bill payment,other,94,86199,917.01,0
+18-25,tamil nadu,bill payment,shopping,119,378945,3184.41,0
+18-25,tamil nadu,bill payment,transport,87,22048,253.43,1
+18-25,tamil nadu,bill payment,utilities,76,136943,1801.88,0
+18-25,tamil nadu,p2m,education,68,211597,3111.72,1
+18-25,tamil nadu,p2m,entertainment,183,89156,487.19,0
+18-25,tamil nadu,p2m,food,322,176255,547.38,0
+18-25,tamil nadu,p2m,fuel,217,297527,1371.09,0
+18-25,tamil nadu,p2m,grocery,445,444505,998.89,0
+18-25,tamil nadu,p2m,healthcare,103,37262,361.77,1
+18-25,tamil nadu,p2m,other,251,229407,913.97,0
+18-25,tamil nadu,p2m,shopping,246,702604,2856.11,1
+18-25,tamil nadu,p2m,transport,167,60928,364.84,1
+18-25,tamil nadu,p2m,utilities,168,273715,1629.26,0
+18-25,tamil nadu,p2p,education,86,238905,2777.97,0
+18-25,tamil nadu,p2p,entertainment,245,119778,488.89,0
+18-25,tamil nadu,p2p,food,417,240474,576.68,2
+18-25,tamil nadu,p2p,fuel,293,411704,1405.13,1
+18-25,tamil nadu,p2p,grocery,590,568268,963.17,2
+18-25,tamil nadu,p2p,healthcare,147,50207,341.54,1
+18-25,tamil nadu,p2p,other,276,268601,973.19,0
+18-25,tamil nadu,p2p,shopping,313,915387,2924.56,0
+18-25,tamil nadu,p2p,transport,242,76509,316.15,0
+18-25,tamil nadu,p2p,utilities,243,409273,1684.25,0
+18-25,tamil nadu,recharge,education,11,31572,2870.18,0
+18-25,tamil nadu,recharge,entertainment,16,7596,474.75,0
+18-25,tamil nadu,recharge,food,44,24304,552.36,0
+18-25,tamil nadu,recharge,fuel,44,62585,1422.39,0
+18-25,tamil nadu,recharge,grocery,66,58073,879.89,0
+18-25,tamil nadu,recharge,healthcare,14,4626,330.43,0
+18-25,tamil nadu,recharge,other,22,29828,1355.82,0
+18-25,tamil nadu,recharge,shopping,31,80889,2609.32,0
+18-25,tamil nadu,recharge,transport,33,8964,271.64,0
+18-25,tamil nadu,recharge,utilities,29,48151,1660.38,0
+18-25,telangana,bill payment,education,24,87607,3650.29,0
+18-25,telangana,bill payment,entertainment,71,28547,402.07,0
+18-25,telangana,bill payment,food,128,83625,653.32,0
+18-25,telangana,bill payment,fuel,80,113948,1424.35,0
+18-25,telangana,bill payment,grocery,143,129393,904.85,0
+18-25,telangana,bill payment,healthcare,36,12075,335.42,0
+18-25,telangana,bill payment,other,95,88640,933.05,0
+18-25,telangana,bill payment,shopping,116,356631,3074.41,0
+18-25,telangana,bill payment,transport,85,32077,377.38,0
+18-25,telangana,bill payment,utilities,56,123009,2196.59,0
+18-25,telangana,p2m,education,77,293739,3814.79,0
+18-25,telangana,p2m,entertainment,165,78569,476.18,1
+18-25,telangana,p2m,food,305,174803,573.12,0
+18-25,telangana,p2m,fuel,192,261733,1363.19,1
+18-25,telangana,p2m,grocery,371,344189,927.73,1
+18-25,telangana,p2m,healthcare,110,36956,335.96,0
+18-25,telangana,p2m,other,201,181698,903.97,0
+18-25,telangana,p2m,shopping,242,702075,2901.14,0
+18-25,telangana,p2m,transport,153,52351,342.16,1
+18-25,telangana,p2m,utilities,162,269259,1662.09,0
+18-25,telangana,p2p,education,81,251684,3107.21,0
+18-25,telangana,p2p,entertainment,179,85664,478.57,0
+18-25,telangana,p2p,food,354,221911,626.87,1
+18-25,telangana,p2p,fuel,252,359870,1428.06,0
+18-25,telangana,p2p,grocery,515,506403,983.31,0
+18-25,telangana,p2p,healthcare,156,51853,332.39,1
+18-25,telangana,p2p,other,263,241684,918.95,0
+18-25,telangana,p2p,shopping,313,1005514,3212.5,0
+18-25,telangana,p2p,transport,205,65567,319.84,0
+18-25,telangana,p2p,utilities,209,325654,1558.15,1
+18-25,telangana,recharge,education,7,21940,3134.29,0
+18-25,telangana,recharge,entertainment,18,8181,454.5,0
+18-25,telangana,recharge,food,40,15737,393.42,0
+18-25,telangana,recharge,fuel,32,40714,1272.31,0
+18-25,telangana,recharge,grocery,55,45487,827.04,0
+18-25,telangana,recharge,healthcare,19,5169,272.05,0
+18-25,telangana,recharge,other,29,26178,902.69,0
+18-25,telangana,recharge,shopping,27,95582,3540.07,0
+18-25,telangana,recharge,transport,26,12390,476.54,0
+18-25,telangana,recharge,utilities,21,38974,1855.9,0
+18-25,uttar pradesh,bill payment,education,25,61722,2468.88,0
+18-25,uttar pradesh,bill payment,entertainment,96,48468,504.88,0
+18-25,uttar pradesh,bill payment,food,166,99171,597.42,0
+18-25,uttar pradesh,bill payment,fuel,106,147471,1391.24,1
+18-25,uttar pradesh,bill payment,grocery,212,191463,903.13,1
+18-25,uttar pradesh,bill payment,healthcare,58,23646,407.69,0
+18-25,uttar pradesh,bill payment,other,122,107210,878.77,0
+18-25,uttar pradesh,bill payment,shopping,134,427747,3192.14,0
+18-25,uttar pradesh,bill payment,transport,95,34965,368.05,0
+18-25,uttar pradesh,bill payment,utilities,101,181380,1795.84,0
+18-25,uttar pradesh,p2m,education,79,261568,3310.99,0
+18-25,uttar pradesh,p2m,entertainment,221,112062,507.07,0
+18-25,uttar pradesh,p2m,food,434,233158,537.23,1
+18-25,uttar pradesh,p2m,fuel,281,372175,1324.47,0
+18-25,uttar pradesh,p2m,grocery,528,496141,939.66,0
+18-25,uttar pradesh,p2m,healthcare,140,46688,333.49,1
+18-25,uttar pradesh,p2m,other,263,249109,947.18,0
+18-25,uttar pradesh,p2m,shopping,332,1085228,3268.76,2
+18-25,uttar pradesh,p2m,transport,220,77932,354.24,0
+18-25,uttar pradesh,p2m,utilities,222,295049,1329.05,0
+18-25,uttar pradesh,p2p,education,111,347330,3129.1,0
+18-25,uttar pradesh,p2p,entertainment,293,149073,508.78,0
+18-25,uttar pradesh,p2p,food,475,271958,572.54,3
+18-25,uttar pradesh,p2p,fuel,318,418335,1315.52,0
+18-25,uttar pradesh,p2p,grocery,707,661952,936.28,1
+18-25,uttar pradesh,p2p,healthcare,164,54696,333.51,0
+18-25,uttar pradesh,p2p,other,331,288629,871.99,0
+18-25,uttar pradesh,p2p,shopping,415,1281802,3088.68,0
+18-25,uttar pradesh,p2p,transport,311,106024,340.91,3
+18-25,uttar pradesh,p2p,utilities,300,460816,1536.05,0
+18-25,uttar pradesh,recharge,education,11,15345,1395.0,0
+18-25,uttar pradesh,recharge,entertainment,37,20865,563.92,0
+18-25,uttar pradesh,recharge,food,65,34753,534.66,0
+18-25,uttar pradesh,recharge,fuel,39,61824,1585.23,0
+18-25,uttar pradesh,recharge,grocery,68,67545,993.31,1
+18-25,uttar pradesh,recharge,healthcare,20,8229,411.45,0
+18-25,uttar pradesh,recharge,other,34,30121,885.91,0
+18-25,uttar pradesh,recharge,shopping,40,124615,3115.38,0
+18-25,uttar pradesh,recharge,transport,35,10535,301.0,0
+18-25,uttar pradesh,recharge,utilities,49,50884,1038.45,0
+18-25,west bengal,bill payment,education,15,46012,3067.47,0
+18-25,west bengal,bill payment,entertainment,52,25836,496.85,0
+18-25,west bengal,bill payment,food,117,66943,572.16,0
+18-25,west bengal,bill payment,fuel,86,123626,1437.51,0
+18-25,west bengal,bill payment,grocery,151,146162,967.96,2
+18-25,west bengal,bill payment,healthcare,42,13928,331.62,0
+18-25,west bengal,bill payment,other,82,95219,1161.21,1
+18-25,west bengal,bill payment,shopping,108,321195,2974.03,0
+18-25,west bengal,bill payment,transport,57,20467,359.07,0
+18-25,west bengal,bill payment,utilities,70,102629,1466.13,0
+18-25,west bengal,p2m,education,69,185775,2692.39,0
+18-25,west bengal,p2m,entertainment,139,76340,549.21,0
+18-25,west bengal,p2m,food,253,138371,546.92,1
+18-25,west bengal,p2m,fuel,188,247627,1317.16,0
+18-25,west bengal,p2m,grocery,339,315319,930.14,1
+18-25,west bengal,p2m,healthcare,107,33980,317.57,0
+18-25,west bengal,p2m,other,186,179466,964.87,0
+18-25,west bengal,p2m,shopping,184,494069,2685.16,0
+18-25,west bengal,p2m,transport,144,47615,330.66,1
+18-25,west bengal,p2m,utilities,164,284536,1734.98,0
+18-25,west bengal,p2p,education,69,189953,2752.94,0
+18-25,west bengal,p2p,entertainment,167,84678,507.05,0
+18-25,west bengal,p2p,food,324,182362,562.85,0
+18-25,west bengal,p2p,fuel,204,280219,1373.62,0
+18-25,west bengal,p2p,grocery,471,445475,945.81,3
+18-25,west bengal,p2p,healthcare,94,33568,357.11,0
+18-25,west bengal,p2p,other,201,183672,913.79,0
+18-25,west bengal,p2p,shopping,241,776154,3220.56,0
+18-25,west bengal,p2p,transport,194,62255,320.9,1
+18-25,west bengal,p2p,utilities,203,307831,1516.41,0
+18-25,west bengal,recharge,education,9,24802,2755.78,0
+18-25,west bengal,recharge,entertainment,25,13618,544.72,0
+18-25,west bengal,recharge,food,45,24807,551.27,0
+18-25,west bengal,recharge,fuel,30,38463,1282.1,0
+18-25,west bengal,recharge,grocery,54,54744,1013.78,1
+18-25,west bengal,recharge,healthcare,22,7469,339.5,0
+18-25,west bengal,recharge,other,16,13264,829.0,0
+18-25,west bengal,recharge,shopping,31,105584,3405.94,0
+18-25,west bengal,recharge,transport,21,7082,337.24,0
+18-25,west bengal,recharge,utilities,20,23722,1186.1,0
+26-35,andhra pradesh,bill payment,education,27,131041,4853.37,0
+26-35,andhra pradesh,bill payment,entertainment,91,40337,443.26,1
+26-35,andhra pradesh,bill payment,food,165,95044,576.02,0
+26-35,andhra pradesh,bill payment,fuel,90,146959,1632.88,0
+26-35,andhra pradesh,bill payment,grocery,210,232316,1106.27,0
+26-35,andhra pradesh,bill payment,healthcare,41,19074,465.22,0
+26-35,andhra pradesh,bill payment,other,92,74222,806.76,0
+26-35,andhra pradesh,bill payment,shopping,113,282320,2498.41,0
+26-35,andhra pradesh,bill payment,transport,84,28885,343.87,0
+26-35,andhra pradesh,bill payment,utilities,92,199886,2172.67,0
+26-35,andhra pradesh,p2m,education,77,381342,4952.49,0
+26-35,andhra pradesh,p2m,entertainment,210,97884,466.11,0
+26-35,andhra pradesh,p2m,food,369,192185,520.83,1
+26-35,andhra pradesh,p2m,fuel,239,412656,1726.59,0
+26-35,andhra pradesh,p2m,grocery,477,551906,1157.04,1
+26-35,andhra pradesh,p2m,healthcare,140,64698,462.13,0
+26-35,andhra pradesh,p2m,other,220,192924,876.93,0
+26-35,andhra pradesh,p2m,shopping,276,842479,3052.46,0
+26-35,andhra pradesh,p2m,transport,184,50003,271.76,0
+26-35,andhra pradesh,p2m,utilities,207,448379,2166.08,1
+26-35,andhra pradesh,p2p,education,86,449902,5231.42,0
+26-35,andhra pradesh,p2p,entertainment,259,106177,409.95,0
+26-35,andhra pradesh,p2p,food,434,254724,586.92,0
+26-35,andhra pradesh,p2p,fuel,336,492891,1466.94,0
+26-35,andhra pradesh,p2p,grocery,643,735608,1144.02,0
+26-35,andhra pradesh,p2p,healthcare,164,72366,441.26,0
+26-35,andhra pradesh,p2p,other,347,293508,845.84,1
+26-35,andhra pradesh,p2p,shopping,366,947988,2590.13,1
+26-35,andhra pradesh,p2p,transport,255,98432,386.01,0
+26-35,andhra pradesh,p2p,utilities,288,602226,2091.06,1
+26-35,andhra pradesh,recharge,education,10,93313,9331.3,0
+26-35,andhra pradesh,recharge,entertainment,28,12806,457.36,1
+26-35,andhra pradesh,recharge,food,56,35229,629.09,0
+26-35,andhra pradesh,recharge,fuel,45,63474,1410.53,0
+26-35,andhra pradesh,recharge,grocery,93,107379,1154.61,0
+26-35,andhra pradesh,recharge,healthcare,23,9725,422.83,0
+26-35,andhra pradesh,recharge,other,30,21975,732.5,0
+26-35,andhra pradesh,recharge,shopping,35,92984,2656.69,1
+26-35,andhra pradesh,recharge,transport,27,6975,258.33,0
+26-35,andhra pradesh,recharge,utilities,28,62419,2229.25,0
+26-35,delhi,bill payment,education,38,197974,5209.84,0
+26-35,delhi,bill payment,entertainment,112,44580,398.04,0
+26-35,delhi,bill payment,food,219,123138,562.27,0
+26-35,delhi,bill payment,fuel,130,204209,1570.84,1
+26-35,delhi,bill payment,grocery,233,300146,1288.18,0
+26-35,delhi,bill payment,healthcare,62,26114,421.19,0
+26-35,delhi,bill payment,other,141,129956,921.67,0
+26-35,delhi,bill payment,shopping,149,438527,2943.13,1
+26-35,delhi,bill payment,transport,104,26187,251.8,0
+26-35,delhi,bill payment,utilities,110,258545,2350.41,0
+26-35,delhi,p2m,education,82,479316,5845.32,1
+26-35,delhi,p2m,entertainment,267,110991,415.7,1
+26-35,delhi,p2m,food,462,263723,570.83,0
+26-35,delhi,p2m,fuel,318,495720,1558.87,2
+26-35,delhi,p2m,grocery,616,696051,1129.95,1
+26-35,delhi,p2m,healthcare,150,67158,447.72,2
+26-35,delhi,p2m,other,282,252028,893.72,0
+26-35,delhi,p2m,shopping,380,963885,2536.54,1
+26-35,delhi,p2m,transport,254,86825,341.83,2
+26-35,delhi,p2m,utilities,304,634907,2088.51,0
+26-35,delhi,p2p,education,122,621662,5095.59,0
+26-35,delhi,p2p,entertainment,304,144924,476.72,1
+26-35,delhi,p2p,food,584,350905,600.86,1
+26-35,delhi,p2p,fuel,383,597905,1561.11,2
+26-35,delhi,p2p,grocery,738,904991,1226.28,2
+26-35,delhi,p2p,healthcare,213,99507,467.17,1
+26-35,delhi,p2p,other,412,348920,846.89,1
+26-35,delhi,p2p,shopping,456,1228333,2693.71,0
+26-35,delhi,p2p,transport,288,84112,292.06,0
+26-35,delhi,p2p,utilities,318,695244,2186.3,0
+26-35,delhi,recharge,education,7,46510,6644.29,0
+26-35,delhi,recharge,entertainment,44,20713,470.75,0
+26-35,delhi,recharge,food,70,42437,606.24,0
+26-35,delhi,recharge,fuel,41,63586,1550.88,0
+26-35,delhi,recharge,grocery,70,69888,998.4,0
+26-35,delhi,recharge,healthcare,23,14585,634.13,0
+26-35,delhi,recharge,other,39,31826,816.05,0
+26-35,delhi,recharge,shopping,44,116113,2638.93,0
+26-35,delhi,recharge,transport,41,13474,328.63,1
+26-35,delhi,recharge,utilities,48,81262,1692.96,0
+26-35,gujarat,bill payment,education,24,122810,5117.08,0
+26-35,gujarat,bill payment,entertainment,72,30670,425.97,1
+26-35,gujarat,bill payment,food,181,102520,566.41,1
+26-35,gujarat,bill payment,fuel,111,155968,1405.12,0
+26-35,gujarat,bill payment,grocery,220,250680,1139.45,0
+26-35,gujarat,bill payment,healthcare,61,29822,488.89,0
+26-35,gujarat,bill payment,other,106,102743,969.27,0
+26-35,gujarat,bill payment,shopping,118,330273,2798.92,2
+26-35,gujarat,bill payment,transport,84,25790,307.02,0
+26-35,gujarat,bill payment,utilities,100,224537,2245.37,1
+26-35,gujarat,p2m,education,73,403673,5529.77,0
+26-35,gujarat,p2m,entertainment,182,85570,470.16,0
+26-35,gujarat,p2m,food,373,215849,578.68,1
+26-35,gujarat,p2m,fuel,253,387674,1532.31,0
+26-35,gujarat,p2m,grocery,523,600549,1148.28,0
+26-35,gujarat,p2m,healthcare,130,59076,454.43,0
+26-35,gujarat,p2m,other,256,238344,931.03,0
+26-35,gujarat,p2m,shopping,274,721835,2634.43,1
+26-35,gujarat,p2m,transport,225,66114,293.84,1
+26-35,gujarat,p2m,utilities,225,485400,2157.33,1
+26-35,gujarat,p2p,education,107,561616,5248.75,0
+26-35,gujarat,p2p,entertainment,236,104147,441.3,1
+26-35,gujarat,p2p,food,464,262140,564.96,2
+26-35,gujarat,p2p,fuel,289,420546,1455.18,0
+26-35,gujarat,p2p,grocery,629,726662,1155.27,1
+26-35,gujarat,p2p,healthcare,147,72115,490.58,0
+26-35,gujarat,p2p,other,273,243864,893.27,1
+26-35,gujarat,p2p,shopping,370,986366,2665.85,1
+26-35,gujarat,p2p,transport,269,92191,342.72,0
+26-35,gujarat,p2p,utilities,272,586886,2157.67,1
+26-35,gujarat,recharge,education,9,51277,5697.44,0
+26-35,gujarat,recharge,entertainment,35,17770,507.71,0
+26-35,gujarat,recharge,food,64,33910,529.84,0
+26-35,gujarat,recharge,fuel,36,60242,1673.39,0
+26-35,gujarat,recharge,grocery,93,118974,1279.29,0
+26-35,gujarat,recharge,healthcare,22,11901,540.95,0
+26-35,gujarat,recharge,other,39,37439,959.97,0
+26-35,gujarat,recharge,shopping,45,113150,2514.44,0
+26-35,gujarat,recharge,transport,26,10877,418.35,0
+26-35,gujarat,recharge,utilities,24,57652,2402.17,0
+26-35,karnataka,bill payment,education,49,201645,4115.2,0
+26-35,karnataka,bill payment,entertainment,129,56275,436.24,0
+26-35,karnataka,bill payment,food,227,113265,498.96,0
+26-35,karnataka,bill payment,fuel,137,213308,1556.99,0
+26-35,karnataka,bill payment,grocery,314,352284,1121.92,3
+26-35,karnataka,bill payment,healthcare,88,50769,576.92,0
+26-35,karnataka,bill payment,other,158,149668,947.27,0
+26-35,karnataka,bill payment,shopping,181,449180,2481.66,1
+26-35,karnataka,bill payment,transport,124,34269,276.36,0
+26-35,karnataka,bill payment,utilities,152,347819,2288.28,0
+26-35,karnataka,p2m,education,98,469171,4787.46,0
+26-35,karnataka,p2m,entertainment,291,124564,428.05,1
+26-35,karnataka,p2m,food,558,324989,582.42,1
+26-35,karnataka,p2m,fuel,394,621567,1577.58,2
+26-35,karnataka,p2m,grocery,740,873959,1181.03,1
+26-35,karnataka,p2m,healthcare,187,81162,434.02,0
+26-35,karnataka,p2m,other,391,346458,886.08,0
+26-35,karnataka,p2m,shopping,429,1152787,2687.15,0
+26-35,karnataka,p2m,transport,308,99749,323.86,3
+26-35,karnataka,p2m,utilities,327,693149,2119.72,0
+26-35,karnataka,p2p,education,118,615458,5215.75,0
+26-35,karnataka,p2p,entertainment,398,167745,421.47,2
+26-35,karnataka,p2p,food,684,368369,538.55,1
+26-35,karnataka,p2p,fuel,472,663970,1406.72,2
+26-35,karnataka,p2p,grocery,941,1130080,1200.94,3
+26-35,karnataka,p2p,healthcare,233,107521,461.46,1
+26-35,karnataka,p2p,other,493,408216,828.02,0
+26-35,karnataka,p2p,shopping,547,1456436,2662.59,1
+26-35,karnataka,p2p,transport,400,126462,316.15,1
+26-35,karnataka,p2p,utilities,399,827931,2075.02,2
+26-35,karnataka,recharge,education,13,63389,4876.08,0
+26-35,karnataka,recharge,entertainment,42,21711,516.93,0
+26-35,karnataka,recharge,food,81,35613,439.67,0
+26-35,karnataka,recharge,fuel,54,103931,1924.65,0
+26-35,karnataka,recharge,grocery,96,98012,1020.96,0
+26-35,karnataka,recharge,healthcare,27,12395,459.07,0
+26-35,karnataka,recharge,other,36,35677,991.03,0
+26-35,karnataka,recharge,shopping,58,158285,2729.05,0
+26-35,karnataka,recharge,transport,43,14609,339.74,0
+26-35,karnataka,recharge,utilities,47,100748,2143.57,0
+26-35,maharashtra,bill payment,education,44,269363,6121.89,1
+26-35,maharashtra,bill payment,entertainment,150,66978,446.52,0
+26-35,maharashtra,bill payment,food,294,169414,576.24,0
+26-35,maharashtra,bill payment,fuel,190,311758,1640.83,0
+26-35,maharashtra,bill payment,grocery,366,434812,1188.01,1
+26-35,maharashtra,bill payment,healthcare,92,44919,488.25,0
+26-35,maharashtra,bill payment,other,208,212233,1020.35,0
+26-35,maharashtra,bill payment,shopping,221,545339,2467.6,0
+26-35,maharashtra,bill payment,transport,151,53835,356.52,0
+26-35,maharashtra,bill payment,utilities,180,474488,2636.04,2
+26-35,maharashtra,p2m,education,132,625330,4737.35,0
+26-35,maharashtra,p2m,entertainment,362,167082,461.55,0
+26-35,maharashtra,p2m,food,702,383007,545.59,2
+26-35,maharashtra,p2m,fuel,466,676342,1451.38,0
+26-35,maharashtra,p2m,grocery,929,1067593,1149.19,2
+26-35,maharashtra,p2m,healthcare,224,106005,473.24,0
+26-35,maharashtra,p2m,other,460,415283,902.79,0
+26-35,maharashtra,p2m,shopping,574,1640814,2858.56,2
+26-35,maharashtra,p2m,transport,357,106363,297.94,0
+26-35,maharashtra,p2m,utilities,437,951744,2177.9,0
+26-35,maharashtra,p2p,education,181,916947,5066.01,1
+26-35,maharashtra,p2p,entertainment,461,218610,474.21,3
+26-35,maharashtra,p2p,food,883,496708,562.52,1
+26-35,maharashtra,p2p,fuel,573,858248,1497.82,2
+26-35,maharashtra,p2p,grocery,1141,1359038,1191.09,2
+26-35,maharashtra,p2p,healthcare,261,116660,446.97,2
+26-35,maharashtra,p2p,other,561,488496,870.76,2
+26-35,maharashtra,p2p,shopping,701,1886219,2690.75,0
+26-35,maharashtra,p2p,transport,491,139422,283.96,0
+26-35,maharashtra,p2p,utilities,559,1328073,2375.8,1
+26-35,maharashtra,recharge,education,15,61428,4095.2,0
+26-35,maharashtra,recharge,entertainment,54,21549,399.06,0
+26-35,maharashtra,recharge,food,99,49752,502.55,0
+26-35,maharashtra,recharge,fuel,71,100511,1415.65,1
+26-35,maharashtra,recharge,grocery,136,168790,1241.1,0
+26-35,maharashtra,recharge,healthcare,37,17223,465.49,0
+26-35,maharashtra,recharge,other,69,60565,877.75,0
+26-35,maharashtra,recharge,shopping,73,189741,2599.19,1
+26-35,maharashtra,recharge,transport,46,10836,235.57,1
+26-35,maharashtra,recharge,utilities,78,167700,2150.0,0
+26-35,rajasthan,bill payment,education,29,136382,4702.83,1
+26-35,rajasthan,bill payment,entertainment,94,38098,405.3,0
+26-35,rajasthan,bill payment,food,135,69384,513.96,1
+26-35,rajasthan,bill payment,fuel,95,125590,1322.0,0
+26-35,rajasthan,bill payment,grocery,211,229030,1085.45,1
+26-35,rajasthan,bill payment,healthcare,52,21930,421.73,0
+26-35,rajasthan,bill payment,other,110,105637,960.34,2
+26-35,rajasthan,bill payment,shopping,139,390083,2806.35,0
+26-35,rajasthan,bill payment,transport,83,24479,294.93,0
+26-35,rajasthan,bill payment,utilities,89,195342,2194.85,0
+26-35,rajasthan,p2m,education,76,440726,5799.03,0
+26-35,rajasthan,p2m,entertainment,184,81767,444.39,0
+26-35,rajasthan,p2m,food,393,235646,599.61,1
+26-35,rajasthan,p2m,fuel,238,372445,1564.89,1
+26-35,rajasthan,p2m,grocery,505,616499,1220.79,2
+26-35,rajasthan,p2m,healthcare,111,56001,504.51,0
+26-35,rajasthan,p2m,other,224,172107,768.33,1
+26-35,rajasthan,p2m,shopping,301,869537,2888.83,0
+26-35,rajasthan,p2m,transport,196,60931,310.87,0
+26-35,rajasthan,p2m,utilities,212,468269,2208.82,0
+26-35,rajasthan,p2p,education,101,611955,6058.96,0
+26-35,rajasthan,p2p,entertainment,278,115389,415.07,0
+26-35,rajasthan,p2p,food,493,273685,555.14,1
+26-35,rajasthan,p2p,fuel,299,473459,1583.47,0
+26-35,rajasthan,p2p,grocery,614,684211,1114.35,1
+26-35,rajasthan,p2p,healthcare,160,77151,482.19,0
+26-35,rajasthan,p2p,other,309,242618,785.17,0
+26-35,rajasthan,p2p,shopping,364,982277,2698.56,0
+26-35,rajasthan,p2p,transport,242,66496,274.78,0
+26-35,rajasthan,p2p,utilities,270,578153,2141.31,1
+26-35,rajasthan,recharge,education,13,57522,4424.77,0
+26-35,rajasthan,recharge,entertainment,25,12122,484.88,0
+26-35,rajasthan,recharge,food,55,23246,422.65,0
+26-35,rajasthan,recharge,fuel,33,56988,1726.91,0
+26-35,rajasthan,recharge,grocery,63,73924,1173.4,0
+26-35,rajasthan,recharge,healthcare,15,9520,634.67,0
+26-35,rajasthan,recharge,other,35,33038,943.94,0
+26-35,rajasthan,recharge,shopping,39,121240,3108.72,0
+26-35,rajasthan,recharge,transport,31,9256,298.58,0
+26-35,rajasthan,recharge,utilities,28,50435,1801.25,0
+26-35,tamil nadu,bill payment,education,44,192683,4379.16,0
+26-35,tamil nadu,bill payment,entertainment,114,47408,415.86,0
+26-35,tamil nadu,bill payment,food,192,107701,560.94,0
+26-35,tamil nadu,bill payment,fuel,124,211253,1703.65,1
+26-35,tamil nadu,bill payment,grocery,275,360926,1312.46,0
+26-35,tamil nadu,bill payment,healthcare,69,35082,508.43,2
+26-35,tamil nadu,bill payment,other,144,131797,915.26,0
+26-35,tamil nadu,bill payment,shopping,169,459003,2715.99,1
+26-35,tamil nadu,bill payment,transport,118,30726,260.39,0
+26-35,tamil nadu,bill payment,utilities,126,269059,2135.39,0
+26-35,tamil nadu,p2m,education,105,605224,5764.04,0
+26-35,tamil nadu,p2m,entertainment,276,127348,461.41,1
+26-35,tamil nadu,p2m,food,418,222595,532.52,0
+26-35,tamil nadu,p2m,fuel,330,524176,1588.41,0
+26-35,tamil nadu,p2m,grocery,579,665098,1148.7,0
+26-35,tamil nadu,p2m,healthcare,162,72992,450.57,0
+26-35,tamil nadu,p2m,other,308,277271,900.23,1
+26-35,tamil nadu,p2m,shopping,380,1055076,2776.52,1
+26-35,tamil nadu,p2m,transport,267,84675,317.13,0
+26-35,tamil nadu,p2m,utilities,289,631323,2184.51,2
+26-35,tamil nadu,p2p,education,124,683564,5512.61,0
+26-35,tamil nadu,p2p,entertainment,345,151978,440.52,1
+26-35,tamil nadu,p2p,food,620,352677,568.83,1
+26-35,tamil nadu,p2p,fuel,396,616061,1555.71,0
+26-35,tamil nadu,p2p,grocery,828,976223,1179.01,1
+26-35,tamil nadu,p2p,healthcare,213,99807,468.58,0
+26-35,tamil nadu,p2p,other,394,359006,911.18,1
+26-35,tamil nadu,p2p,shopping,477,1326451,2780.82,0
+26-35,tamil nadu,p2p,transport,293,94287,321.8,0
+26-35,tamil nadu,p2p,utilities,376,868375,2309.51,0
+26-35,tamil nadu,recharge,education,17,84146,4949.76,0
+26-35,tamil nadu,recharge,entertainment,28,10251,366.11,0
+26-35,tamil nadu,recharge,food,60,31904,531.73,0
+26-35,tamil nadu,recharge,fuel,29,33528,1156.14,0
+26-35,tamil nadu,recharge,grocery,97,110605,1140.26,0
+26-35,tamil nadu,recharge,healthcare,21,10072,479.62,0
+26-35,tamil nadu,recharge,other,44,39344,894.18,1
+26-35,tamil nadu,recharge,shopping,52,152079,2924.6,0
+26-35,tamil nadu,recharge,transport,37,11227,303.43,0
+26-35,tamil nadu,recharge,utilities,39,87449,2242.28,0
+26-35,telangana,bill payment,education,29,129102,4451.79,1
+26-35,telangana,bill payment,entertainment,102,44533,436.6,1
+26-35,telangana,bill payment,food,161,84458,524.58,0
+26-35,telangana,bill payment,fuel,118,165370,1401.44,0
+26-35,telangana,bill payment,grocery,239,287016,1200.9,0
+26-35,telangana,bill payment,healthcare,41,18584,453.27,0
+26-35,telangana,bill payment,other,127,104558,823.29,1
+26-35,telangana,bill payment,shopping,130,364868,2806.68,0
+26-35,telangana,bill payment,transport,99,33199,335.34,0
+26-35,telangana,bill payment,utilities,111,263977,2378.17,0
+26-35,telangana,p2m,education,86,494815,5753.66,0
+26-35,telangana,p2m,entertainment,205,85665,417.88,0
+26-35,telangana,p2m,food,413,229938,556.75,1
+26-35,telangana,p2m,fuel,280,416560,1487.71,1
+26-35,telangana,p2m,grocery,560,648863,1158.68,0
+26-35,telangana,p2m,healthcare,136,62209,457.42,0
+26-35,telangana,p2m,other,270,230415,853.39,0
+26-35,telangana,p2m,shopping,328,904223,2756.78,0
+26-35,telangana,p2m,transport,210,69278,329.9,1
+26-35,telangana,p2m,utilities,257,590281,2296.81,0
+26-35,telangana,p2p,education,104,519261,4992.89,0
+26-35,telangana,p2p,entertainment,264,112949,427.84,1
+26-35,telangana,p2p,food,519,275199,530.25,0
+26-35,telangana,p2p,fuel,333,513730,1542.73,0
+26-35,telangana,p2p,grocery,730,864665,1184.47,0
+26-35,telangana,p2p,healthcare,184,85549,464.94,0
+26-35,telangana,p2p,other,327,293341,897.07,1
+26-35,telangana,p2p,shopping,424,1155217,2724.57,1
+26-35,telangana,p2p,transport,283,91191,322.23,1
+26-35,telangana,p2p,utilities,322,762325,2367.47,0
+26-35,telangana,recharge,education,18,112454,6247.44,0
+26-35,telangana,recharge,entertainment,28,12870,459.64,0
+26-35,telangana,recharge,food,45,20079,446.2,0
+26-35,telangana,recharge,fuel,42,72621,1729.07,0
+26-35,telangana,recharge,grocery,86,109520,1273.49,0
+26-35,telangana,recharge,healthcare,20,8958,447.9,0
+26-35,telangana,recharge,other,37,24864,672.0,0
+26-35,telangana,recharge,shopping,53,141133,2662.89,0
+26-35,telangana,recharge,transport,28,10985,392.32,0
+26-35,telangana,recharge,utilities,35,72077,2059.34,0
+26-35,uttar pradesh,bill payment,education,56,325171,5806.62,0
+26-35,uttar pradesh,bill payment,entertainment,153,61494,401.92,0
+26-35,uttar pradesh,bill payment,food,235,134361,571.75,0
+26-35,uttar pradesh,bill payment,fuel,155,244949,1580.32,0
+26-35,uttar pradesh,bill payment,grocery,317,391380,1234.64,1
+26-35,uttar pradesh,bill payment,healthcare,83,41449,499.39,0
+26-35,uttar pradesh,bill payment,other,157,118866,757.11,1
+26-35,uttar pradesh,bill payment,shopping,194,523830,2700.15,0
+26-35,uttar pradesh,bill payment,transport,120,36194,301.62,1
+26-35,uttar pradesh,bill payment,utilities,139,316302,2275.55,0
+26-35,uttar pradesh,p2m,education,124,701237,5655.14,0
+26-35,uttar pradesh,p2m,entertainment,287,121588,423.65,0
+26-35,uttar pradesh,p2m,food,548,341391,622.98,1
+26-35,uttar pradesh,p2m,fuel,393,594597,1512.97,0
+26-35,uttar pradesh,p2m,grocery,691,810528,1172.98,1
+26-35,uttar pradesh,p2m,healthcare,181,88007,486.23,0
+26-35,uttar pradesh,p2m,other,354,302708,855.11,0
+26-35,uttar pradesh,p2m,shopping,421,1306165,3102.53,0
+26-35,uttar pradesh,p2m,transport,323,88487,273.95,1
+26-35,uttar pradesh,p2m,utilities,324,707359,2183.21,0
+26-35,uttar pradesh,p2p,education,144,709095,4924.27,0
+26-35,uttar pradesh,p2p,entertainment,365,164013,449.35,0
+26-35,uttar pradesh,p2p,food,734,397894,542.09,4
+26-35,uttar pradesh,p2p,fuel,469,708123,1509.86,0
+26-35,uttar pradesh,p2p,grocery,891,1080014,1212.14,0
+26-35,uttar pradesh,p2p,healthcare,238,117095,492.0,1
+26-35,uttar pradesh,p2p,other,490,401869,820.14,0
+26-35,uttar pradesh,p2p,shopping,554,1548505,2795.14,1
+26-35,uttar pradesh,p2p,transport,391,115126,294.44,1
+26-35,uttar pradesh,p2p,utilities,454,1091493,2404.17,0
+26-35,uttar pradesh,recharge,education,11,52306,4755.09,0
+26-35,uttar pradesh,recharge,entertainment,46,21540,468.26,0
+26-35,uttar pradesh,recharge,food,71,36869,519.28,0
+26-35,uttar pradesh,recharge,fuel,59,107092,1815.12,0
+26-35,uttar pradesh,recharge,grocery,112,139750,1247.77,0
+26-35,uttar pradesh,recharge,healthcare,24,13256,552.33,0
+26-35,uttar pradesh,recharge,other,47,41305,878.83,0
+26-35,uttar pradesh,recharge,shopping,66,198731,3011.08,0
+26-35,uttar pradesh,recharge,transport,53,15255,287.83,0
+26-35,uttar pradesh,recharge,utilities,54,132201,2448.17,0
+26-35,west bengal,bill payment,education,25,124384,4975.36,0
+26-35,west bengal,bill payment,entertainment,88,44898,510.2,0
+26-35,west bengal,bill payment,food,172,95591,555.76,1
+26-35,west bengal,bill payment,fuel,116,164527,1418.34,0
+26-35,west bengal,bill payment,grocery,213,258504,1213.63,1
+26-35,west bengal,bill payment,healthcare,47,24394,519.02,0
+26-35,west bengal,bill payment,other,121,109553,905.4,0
+26-35,west bengal,bill payment,shopping,113,263984,2336.14,0
+26-35,west bengal,bill payment,transport,80,19058,238.22,0
+26-35,west bengal,bill payment,utilities,107,257658,2408.02,0
+26-35,west bengal,p2m,education,73,412613,5652.23,0
+26-35,west bengal,p2m,entertainment,184,78613,427.24,2
+26-35,west bengal,p2m,food,393,212307,540.22,0
+26-35,west bengal,p2m,fuel,259,417062,1610.28,0
+26-35,west bengal,p2m,grocery,516,618126,1197.92,2
+26-35,west bengal,p2m,healthcare,107,49853,465.92,0
+26-35,west bengal,p2m,other,242,211293,873.11,0
+26-35,west bengal,p2m,shopping,299,810663,2711.25,1
+26-35,west bengal,p2m,transport,202,64202,317.83,0
+26-35,west bengal,p2m,utilities,184,404065,2196.01,0
+26-35,west bengal,p2p,education,102,576215,5649.17,0
+26-35,west bengal,p2p,entertainment,232,100546,433.39,1
+26-35,west bengal,p2p,food,479,275233,574.6,0
+26-35,west bengal,p2p,fuel,316,474029,1500.09,0
+26-35,west bengal,p2p,grocery,678,803230,1184.71,3
+26-35,west bengal,p2p,healthcare,159,76751,482.71,0
+26-35,west bengal,p2p,other,296,241167,814.75,0
+26-35,west bengal,p2p,shopping,364,1060258,2912.8,3
+26-35,west bengal,p2p,transport,259,81413,314.34,0
+26-35,west bengal,p2p,utilities,295,622424,2109.91,1
+26-35,west bengal,recharge,education,9,25300,2811.11,0
+26-35,west bengal,recharge,entertainment,33,13201,400.03,0
+26-35,west bengal,recharge,food,47,32452,690.47,0
+26-35,west bengal,recharge,fuel,25,33185,1327.4,0
+26-35,west bengal,recharge,grocery,74,82089,1109.31,0
+26-35,west bengal,recharge,healthcare,12,5312,442.67,0
+26-35,west bengal,recharge,other,27,29388,1088.44,0
+26-35,west bengal,recharge,shopping,50,134562,2691.24,0
+26-35,west bengal,recharge,transport,26,10019,385.35,0
+26-35,west bengal,recharge,utilities,25,51183,2047.32,0
+36-45,andhra pradesh,bill payment,education,23,129549,5632.57,0
+36-45,andhra pradesh,bill payment,entertainment,61,23239,380.97,0
+36-45,andhra pradesh,bill payment,food,106,48824,460.6,0
+36-45,andhra pradesh,bill payment,fuel,78,125100,1603.85,0
+36-45,andhra pradesh,bill payment,grocery,169,237774,1406.95,0
+36-45,andhra pradesh,bill payment,healthcare,46,25292,549.83,0
+36-45,andhra pradesh,bill payment,other,71,57430,808.87,0
+36-45,andhra pradesh,bill payment,shopping,75,219996,2933.28,0
+36-45,andhra pradesh,bill payment,transport,65,19418,298.74,0
+36-45,andhra pradesh,bill payment,utilities,54,166623,3085.61,1
+36-45,andhra pradesh,p2m,education,50,341429,6828.58,0
+36-45,andhra pradesh,p2m,entertainment,159,61936,389.53,0
+36-45,andhra pradesh,p2m,food,253,109029,430.94,0
+36-45,andhra pradesh,p2m,fuel,164,297437,1813.64,2
+36-45,andhra pradesh,p2m,grocery,317,425626,1342.67,2
+36-45,andhra pradesh,p2m,healthcare,97,61115,630.05,0
+36-45,andhra pradesh,p2m,other,198,166779,842.32,1
+36-45,andhra pradesh,p2m,shopping,192,439794,2290.59,0
+36-45,andhra pradesh,p2m,transport,135,31828,235.76,1
+36-45,andhra pradesh,p2m,utilities,180,547091,3039.39,1
+36-45,andhra pradesh,p2p,education,71,541179,7622.24,0
+36-45,andhra pradesh,p2p,entertainment,164,65532,399.59,0
+36-45,andhra pradesh,p2p,food,341,178299,522.87,0
+36-45,andhra pradesh,p2p,fuel,214,386577,1806.43,0
+36-45,andhra pradesh,p2p,grocery,473,617415,1305.32,1
+36-45,andhra pradesh,p2p,healthcare,127,81127,638.8,0
+36-45,andhra pradesh,p2p,other,224,185713,829.08,0
+36-45,andhra pradesh,p2p,shopping,265,558893,2109.03,0
+36-45,andhra pradesh,p2p,transport,185,48587,262.63,1
+36-45,andhra pradesh,p2p,utilities,190,502610,2645.32,1
+36-45,andhra pradesh,recharge,education,10,77310,7731.0,0
+36-45,andhra pradesh,recharge,entertainment,25,8612,344.48,0
+36-45,andhra pradesh,recharge,food,29,11043,380.79,0
+36-45,andhra pradesh,recharge,fuel,28,63712,2275.43,0
+36-45,andhra pradesh,recharge,grocery,53,63821,1204.17,0
+36-45,andhra pradesh,recharge,healthcare,10,6514,651.4,0
+36-45,andhra pradesh,recharge,other,35,24613,703.23,0
+36-45,andhra pradesh,recharge,shopping,27,52183,1932.7,0
+36-45,andhra pradesh,recharge,transport,22,9953,452.41,0
+36-45,andhra pradesh,recharge,utilities,17,41665,2450.88,0
+36-45,delhi,bill payment,education,30,172924,5764.13,0
+36-45,delhi,bill payment,entertainment,80,27407,342.59,0
+36-45,delhi,bill payment,food,128,71861,561.41,1
+36-45,delhi,bill payment,fuel,103,149929,1455.62,0
+36-45,delhi,bill payment,grocery,205,278475,1358.41,0
+36-45,delhi,bill payment,healthcare,56,33099,591.05,0
+36-45,delhi,bill payment,other,85,70705,831.82,0
+36-45,delhi,bill payment,shopping,103,241669,2346.3,0
+36-45,delhi,bill payment,transport,78,24217,310.47,0
+36-45,delhi,bill payment,utilities,93,271899,2923.65,0
+36-45,delhi,p2m,education,82,572550,6982.32,0
+36-45,delhi,p2m,entertainment,169,62946,372.46,0
+36-45,delhi,p2m,food,316,140371,444.21,2
+36-45,delhi,p2m,fuel,231,388424,1681.49,0
+36-45,delhi,p2m,grocery,423,563248,1331.56,1
+36-45,delhi,p2m,healthcare,123,73756,599.64,0
+36-45,delhi,p2m,other,223,168811,757.0,1
+36-45,delhi,p2m,shopping,278,669001,2406.48,1
+36-45,delhi,p2m,transport,167,48633,291.22,0
+36-45,delhi,p2m,utilities,184,514432,2795.83,1
+36-45,delhi,p2p,education,93,615972,6623.35,0
+36-45,delhi,p2p,entertainment,248,90767,366.0,0
+36-45,delhi,p2p,food,396,213958,540.3,1
+36-45,delhi,p2p,fuel,309,546170,1767.54,0
+36-45,delhi,p2p,grocery,570,777621,1364.25,1
+36-45,delhi,p2p,healthcare,146,80246,549.63,0
+36-45,delhi,p2p,other,290,265874,916.81,3
+36-45,delhi,p2p,shopping,336,772063,2297.81,0
+36-45,delhi,p2p,transport,213,67732,317.99,0
+36-45,delhi,p2p,utilities,258,703863,2728.15,0
+36-45,delhi,recharge,education,9,42448,4716.44,0
+36-45,delhi,recharge,entertainment,34,11723,344.79,1
+36-45,delhi,recharge,food,39,19826,508.36,0
+36-45,delhi,recharge,fuel,28,47440,1694.29,0
+36-45,delhi,recharge,grocery,62,86243,1391.02,0
+36-45,delhi,recharge,healthcare,28,13745,490.89,0
+36-45,delhi,recharge,other,33,23464,711.03,0
+36-45,delhi,recharge,shopping,31,82518,2661.87,0
+36-45,delhi,recharge,transport,18,6212,345.11,0
+36-45,delhi,recharge,utilities,28,84936,3033.43,0
+36-45,gujarat,bill payment,education,26,181831,6993.5,0
+36-45,gujarat,bill payment,entertainment,58,24787,427.36,0
+36-45,gujarat,bill payment,food,110,52316,475.6,1
+36-45,gujarat,bill payment,fuel,66,112897,1710.56,0
+36-45,gujarat,bill payment,grocery,172,269395,1566.25,0
+36-45,gujarat,bill payment,healthcare,31,17267,557.0,0
+36-45,gujarat,bill payment,other,87,84519,971.48,0
+36-45,gujarat,bill payment,shopping,84,211278,2515.21,0
+36-45,gujarat,bill payment,transport,56,18986,339.04,0
+36-45,gujarat,bill payment,utilities,73,192978,2643.53,0
+36-45,gujarat,p2m,education,44,311223,7073.25,0
+36-45,gujarat,p2m,entertainment,133,50441,379.26,0
+36-45,gujarat,p2m,food,284,126012,443.7,0
+36-45,gujarat,p2m,fuel,180,340983,1894.35,1
+36-45,gujarat,p2m,grocery,341,459078,1346.27,0
+36-45,gujarat,p2m,healthcare,73,43612,597.42,0
+36-45,gujarat,p2m,other,182,139002,763.75,0
+36-45,gujarat,p2m,shopping,231,583459,2525.8,0
+36-45,gujarat,p2m,transport,142,39730,279.79,0
+36-45,gujarat,p2m,utilities,163,412636,2531.51,0
+36-45,gujarat,p2p,education,71,432771,6095.37,0
+36-45,gujarat,p2p,entertainment,173,66139,382.31,0
+36-45,gujarat,p2p,food,326,176744,542.16,1
+36-45,gujarat,p2p,fuel,217,399511,1841.06,0
+36-45,gujarat,p2p,grocery,468,642691,1373.27,0
+36-45,gujarat,p2p,healthcare,108,61850,572.69,0
+36-45,gujarat,p2p,other,223,190601,854.71,0
+36-45,gujarat,p2p,shopping,265,579504,2186.81,0
+36-45,gujarat,p2p,transport,176,58452,332.11,0
+36-45,gujarat,p2p,utilities,188,516840,2749.15,1
+36-45,gujarat,recharge,education,7,68633,9804.71,0
+36-45,gujarat,recharge,entertainment,22,6729,305.86,0
+36-45,gujarat,recharge,food,37,23882,645.46,0
+36-45,gujarat,recharge,fuel,32,51338,1604.31,0
+36-45,gujarat,recharge,grocery,57,87555,1536.05,0
+36-45,gujarat,recharge,healthcare,9,6477,719.67,0
+36-45,gujarat,recharge,other,31,26956,869.55,0
+36-45,gujarat,recharge,shopping,24,69593,2899.71,0
+36-45,gujarat,recharge,transport,16,3705,231.56,1
+36-45,gujarat,recharge,utilities,24,83737,3489.04,0
+36-45,karnataka,bill payment,education,24,154014,6417.25,0
+36-45,karnataka,bill payment,entertainment,77,34816,452.16,0
+36-45,karnataka,bill payment,food,148,68430,462.36,0
+36-45,karnataka,bill payment,fuel,118,203040,1720.68,0
+36-45,karnataka,bill payment,grocery,219,311252,1421.24,0
+36-45,karnataka,bill payment,healthcare,62,46322,747.13,0
+36-45,karnataka,bill payment,other,118,92028,779.9,1
+36-45,karnataka,bill payment,shopping,145,328308,2264.19,0
+36-45,karnataka,bill payment,transport,97,24894,256.64,0
+36-45,karnataka,bill payment,utilities,94,268174,2852.91,0
+36-45,karnataka,p2m,education,74,408729,5523.36,0
+36-45,karnataka,p2m,entertainment,241,89823,372.71,0
+36-45,karnataka,p2m,food,397,210670,530.65,1
+36-45,karnataka,p2m,fuel,274,489084,1784.98,1
+36-45,karnataka,p2m,grocery,515,712571,1383.63,1
+36-45,karnataka,p2m,healthcare,134,91270,681.12,0
+36-45,karnataka,p2m,other,241,211408,877.21,0
+36-45,karnataka,p2m,shopping,299,654609,2189.33,1
+36-45,karnataka,p2m,transport,199,60668,304.86,0
+36-45,karnataka,p2m,utilities,246,681989,2772.31,1
+36-45,karnataka,p2p,education,105,648092,6172.3,0
+36-45,karnataka,p2p,entertainment,243,84178,346.41,0
+36-45,karnataka,p2p,food,497,229153,461.07,0
+36-45,karnataka,p2p,fuel,333,608292,1826.7,1
+36-45,karnataka,p2p,grocery,683,922256,1350.3,0
+36-45,karnataka,p2p,healthcare,159,107852,678.31,0
+36-45,karnataka,p2p,other,320,266443,832.63,3
+36-45,karnataka,p2p,shopping,406,1029849,2536.57,1
+36-45,karnataka,p2p,transport,288,86997,302.07,1
+36-45,karnataka,p2p,utilities,305,767215,2515.46,1
+36-45,karnataka,recharge,education,7,51175,7310.71,0
+36-45,karnataka,recharge,entertainment,25,9889,395.56,1
+36-45,karnataka,recharge,food,51,26922,527.88,0
+36-45,karnataka,recharge,fuel,34,52252,1536.82,0
+36-45,karnataka,recharge,grocery,94,126233,1342.9,0
+36-45,karnataka,recharge,healthcare,23,15027,653.35,0
+36-45,karnataka,recharge,other,34,34704,1020.71,0
+36-45,karnataka,recharge,shopping,50,89397,1787.94,1
+36-45,karnataka,recharge,transport,18,4600,255.56,0
+36-45,karnataka,recharge,utilities,40,113935,2848.38,0
+36-45,maharashtra,bill payment,education,41,321603,7843.98,0
+36-45,maharashtra,bill payment,entertainment,105,36567,348.26,0
+36-45,maharashtra,bill payment,food,210,110360,525.52,0
+36-45,maharashtra,bill payment,fuel,141,260648,1848.57,1
+36-45,maharashtra,bill payment,grocery,264,338732,1283.08,1
+36-45,maharashtra,bill payment,healthcare,69,46849,678.97,0
+36-45,maharashtra,bill payment,other,140,123160,879.71,0
+36-45,maharashtra,bill payment,shopping,166,307354,1851.53,0
+36-45,maharashtra,bill payment,transport,109,31174,286.0,0
+36-45,maharashtra,bill payment,utilities,120,321931,2682.76,0
+36-45,maharashtra,p2m,education,104,747059,7183.26,0
+36-45,maharashtra,p2m,entertainment,275,100887,366.86,0
+36-45,maharashtra,p2m,food,487,245396,503.89,0
+36-45,maharashtra,p2m,fuel,345,574413,1664.97,0
+36-45,maharashtra,p2m,grocery,670,893129,1333.03,2
+36-45,maharashtra,p2m,healthcare,186,122458,658.38,0
+36-45,maharashtra,p2m,other,323,260096,805.25,0
+36-45,maharashtra,p2m,shopping,393,945691,2406.34,2
+36-45,maharashtra,p2m,transport,252,80890,320.99,0
+36-45,maharashtra,p2m,utilities,309,818266,2648.11,0
+36-45,maharashtra,p2p,education,135,906708,6716.36,0
+36-45,maharashtra,p2p,entertainment,379,130055,343.15,1
+36-45,maharashtra,p2p,food,627,306196,488.35,2
+36-45,maharashtra,p2p,fuel,446,765011,1715.27,0
+36-45,maharashtra,p2p,grocery,876,1157737,1321.62,0
+36-45,maharashtra,p2p,healthcare,221,126614,572.91,0
+36-45,maharashtra,p2p,other,448,345386,770.95,2
+36-45,maharashtra,p2p,shopping,473,1132940,2395.22,0
+36-45,maharashtra,p2p,transport,319,89000,279.0,0
+36-45,maharashtra,p2p,utilities,387,1087537,2810.17,0
+36-45,maharashtra,recharge,education,14,81221,5801.5,0
+36-45,maharashtra,recharge,entertainment,32,12328,385.25,0
+36-45,maharashtra,recharge,food,65,27725,426.54,0
+36-45,maharashtra,recharge,fuel,47,86856,1848.0,0
+36-45,maharashtra,recharge,grocery,84,108931,1296.8,0
+36-45,maharashtra,recharge,healthcare,24,14325,596.88,0
+36-45,maharashtra,recharge,other,53,36258,684.11,1
+36-45,maharashtra,recharge,shopping,54,140941,2610.02,0
+36-45,maharashtra,recharge,transport,36,11650,323.61,0
+36-45,maharashtra,recharge,utilities,43,136049,3163.93,0
+36-45,rajasthan,bill payment,education,21,159298,7585.62,1
+36-45,rajasthan,bill payment,entertainment,62,26109,421.11,0
+36-45,rajasthan,bill payment,food,117,54785,468.25,0
+36-45,rajasthan,bill payment,fuel,86,163987,1906.83,0
+36-45,rajasthan,bill payment,grocery,148,210011,1418.99,0
+36-45,rajasthan,bill payment,healthcare,43,26167,608.53,0
+36-45,rajasthan,bill payment,other,90,72832,809.24,0
+36-45,rajasthan,bill payment,shopping,118,265190,2247.37,0
+36-45,rajasthan,bill payment,transport,57,19440,341.05,0
+36-45,rajasthan,bill payment,utilities,74,233628,3157.14,0
+36-45,rajasthan,p2m,education,57,365009,6403.67,0
+36-45,rajasthan,p2m,entertainment,137,56244,410.54,0
+36-45,rajasthan,p2m,food,280,125752,449.11,1
+36-45,rajasthan,p2m,fuel,198,375211,1895.01,0
+36-45,rajasthan,p2m,grocery,342,448402,1311.12,0
+36-45,rajasthan,p2m,healthcare,93,56444,606.92,0
+36-45,rajasthan,p2m,other,182,140290,770.82,0
+36-45,rajasthan,p2m,shopping,218,574580,2635.69,3
+36-45,rajasthan,p2m,transport,146,42756,292.85,1
+36-45,rajasthan,p2m,utilities,166,431466,2599.19,1
+36-45,rajasthan,p2p,education,79,548467,6942.62,0
+36-45,rajasthan,p2p,entertainment,186,65567,352.51,0
+36-45,rajasthan,p2p,food,337,171557,509.07,2
+36-45,rajasthan,p2p,fuel,221,396067,1792.16,0
+36-45,rajasthan,p2p,grocery,424,565710,1334.22,2
+36-45,rajasthan,p2p,healthcare,133,85416,642.23,0
+36-45,rajasthan,p2p,other,240,194555,810.65,0
+36-45,rajasthan,p2p,shopping,268,599821,2238.14,0
+36-45,rajasthan,p2p,transport,166,53653,323.21,1
+36-45,rajasthan,p2p,utilities,215,639421,2974.05,0
+36-45,rajasthan,recharge,education,10,106852,10685.2,0
+36-45,rajasthan,recharge,entertainment,24,8871,369.62,0
+36-45,rajasthan,recharge,food,40,15974,399.35,0
+36-45,rajasthan,recharge,fuel,32,57187,1787.09,0
+36-45,rajasthan,recharge,grocery,55,63432,1153.31,0
+36-45,rajasthan,recharge,healthcare,10,6802,680.2,1
+36-45,rajasthan,recharge,other,22,22786,1035.73,0
+36-45,rajasthan,recharge,shopping,17,52187,3069.82,0
+36-45,rajasthan,recharge,transport,18,8202,455.67,0
+36-45,rajasthan,recharge,utilities,26,57837,2224.5,0
+36-45,tamil nadu,bill payment,education,25,152957,6118.28,0
+36-45,tamil nadu,bill payment,entertainment,84,28152,335.14,0
+36-45,tamil nadu,bill payment,food,147,76476,520.24,0
+36-45,tamil nadu,bill payment,fuel,99,172027,1737.65,1
+36-45,tamil nadu,bill payment,grocery,190,247205,1301.08,0
+36-45,tamil nadu,bill payment,healthcare,49,31511,643.08,0
+36-45,tamil nadu,bill payment,other,88,73213,831.97,0
+36-45,tamil nadu,bill payment,shopping,123,265474,2158.33,0
+36-45,tamil nadu,bill payment,transport,83,29510,355.54,0
+36-45,tamil nadu,bill payment,utilities,72,203146,2821.47,0
+36-45,tamil nadu,p2m,education,63,388022,6159.08,0
+36-45,tamil nadu,p2m,entertainment,186,60552,325.55,0
+36-45,tamil nadu,p2m,food,313,169868,542.71,1
+36-45,tamil nadu,p2m,fuel,220,389581,1770.82,1
+36-45,tamil nadu,p2m,grocery,448,630557,1407.49,1
+36-45,tamil nadu,p2m,healthcare,126,85929,681.98,0
+36-45,tamil nadu,p2m,other,249,212568,853.69,1
+36-45,tamil nadu,p2m,shopping,272,625439,2299.41,0
+36-45,tamil nadu,p2m,transport,165,56094,339.96,0
+36-45,tamil nadu,p2m,utilities,198,551305,2784.37,0
+36-45,tamil nadu,p2p,education,92,675909,7346.84,0
+36-45,tamil nadu,p2p,entertainment,237,85990,362.83,0
+36-45,tamil nadu,p2p,food,452,216673,479.37,0
+36-45,tamil nadu,p2p,fuel,283,488021,1724.46,2
+36-45,tamil nadu,p2p,grocery,569,723066,1270.77,1
+36-45,tamil nadu,p2p,healthcare,157,89972,573.07,0
+36-45,tamil nadu,p2p,other,301,239417,795.41,0
+36-45,tamil nadu,p2p,shopping,309,752509,2435.3,0
+36-45,tamil nadu,p2p,transport,212,64711,305.24,1
+36-45,tamil nadu,p2p,utilities,257,688634,2679.51,0
+36-45,tamil nadu,recharge,education,9,57312,6368.0,0
+36-45,tamil nadu,recharge,entertainment,30,10663,355.43,0
+36-45,tamil nadu,recharge,food,40,20811,520.28,0
+36-45,tamil nadu,recharge,fuel,32,47107,1472.09,1
+36-45,tamil nadu,recharge,grocery,60,59339,988.98,0
+36-45,tamil nadu,recharge,healthcare,19,8216,432.42,0
+36-45,tamil nadu,recharge,other,40,34533,863.32,0
+36-45,tamil nadu,recharge,shopping,28,48725,1740.18,0
+36-45,tamil nadu,recharge,transport,27,7127,263.96,0
+36-45,tamil nadu,recharge,utilities,29,131747,4543.0,0
+36-45,telangana,bill payment,education,17,76916,4524.47,0
+36-45,telangana,bill payment,entertainment,63,21835,346.59,0
+36-45,telangana,bill payment,food,126,53054,421.06,0
+36-45,telangana,bill payment,fuel,81,151780,1873.83,0
+36-45,telangana,bill payment,grocery,155,200682,1294.72,0
+36-45,telangana,bill payment,healthcare,41,25801,629.29,0
+36-45,telangana,bill payment,other,94,87742,933.43,0
+36-45,telangana,bill payment,shopping,100,236309,2363.09,1
+36-45,telangana,bill payment,transport,56,16107,287.62,0
+36-45,telangana,bill payment,utilities,78,216321,2773.35,0
+36-45,telangana,p2m,education,60,418779,6979.65,0
+36-45,telangana,p2m,entertainment,157,55880,355.92,0
+36-45,telangana,p2m,food,281,140065,498.45,0
+36-45,telangana,p2m,fuel,215,370897,1725.1,0
+36-45,telangana,p2m,grocery,377,560051,1485.55,2
+36-45,telangana,p2m,healthcare,94,59925,637.5,0
+36-45,telangana,p2m,other,197,144550,733.76,1
+36-45,telangana,p2m,shopping,255,578558,2268.85,0
+36-45,telangana,p2m,transport,159,50675,318.71,1
+36-45,telangana,p2m,utilities,181,528913,2922.17,0
+36-45,telangana,p2p,education,92,621582,6756.33,0
+36-45,telangana,p2p,entertainment,201,69892,347.72,0
+36-45,telangana,p2p,food,397,222496,560.44,0
+36-45,telangana,p2p,fuel,235,432819,1841.78,2
+36-45,telangana,p2p,grocery,528,703268,1331.95,1
+36-45,telangana,p2p,healthcare,123,81891,665.78,0
+36-45,telangana,p2p,other,266,218112,819.97,2
+36-45,telangana,p2p,shopping,299,680583,2276.2,0
+36-45,telangana,p2p,transport,180,53447,296.93,0
+36-45,telangana,p2p,utilities,204,558839,2739.41,0
+36-45,telangana,recharge,education,8,68289,8536.12,0
+36-45,telangana,recharge,entertainment,23,8345,362.83,0
+36-45,telangana,recharge,food,40,25528,638.2,0
+36-45,telangana,recharge,fuel,35,66089,1888.26,0
+36-45,telangana,recharge,grocery,48,62877,1309.94,0
+36-45,telangana,recharge,healthcare,12,8049,670.75,1
+36-45,telangana,recharge,other,22,16534,751.55,0
+36-45,telangana,recharge,shopping,36,103485,2874.58,0
+36-45,telangana,recharge,transport,18,6019,334.39,0
+36-45,telangana,recharge,utilities,18,38894,2160.78,0
+36-45,uttar pradesh,bill payment,education,41,271307,6617.24,0
+36-45,uttar pradesh,bill payment,entertainment,80,30525,381.56,0
+36-45,uttar pradesh,bill payment,food,194,98891,509.75,3
+36-45,uttar pradesh,bill payment,fuel,99,166012,1676.89,0
+36-45,uttar pradesh,bill payment,grocery,239,342330,1432.34,0
+36-45,uttar pradesh,bill payment,healthcare,57,37560,658.95,0
+36-45,uttar pradesh,bill payment,other,109,88151,808.72,0
+36-45,uttar pradesh,bill payment,shopping,149,352294,2364.39,0
+36-45,uttar pradesh,bill payment,transport,105,30920,294.48,0
+36-45,uttar pradesh,bill payment,utilities,104,338542,3255.21,0
+36-45,uttar pradesh,p2m,education,86,636671,7403.15,1
+36-45,uttar pradesh,p2m,entertainment,192,71064,370.12,1
+36-45,uttar pradesh,p2m,food,358,187838,524.69,1
+36-45,uttar pradesh,p2m,fuel,281,495838,1764.55,2
+36-45,uttar pradesh,p2m,grocery,510,676134,1325.75,1
+36-45,uttar pradesh,p2m,healthcare,136,81583,599.88,0
+36-45,uttar pradesh,p2m,other,265,217839,822.03,0
+36-45,uttar pradesh,p2m,shopping,312,644854,2066.84,1
+36-45,uttar pradesh,p2m,transport,196,53894,274.97,0
+36-45,uttar pradesh,p2m,utilities,225,656736,2918.83,0
+36-45,uttar pradesh,p2p,education,111,711899,6413.5,1
+36-45,uttar pradesh,p2p,entertainment,281,100238,356.72,1
+36-45,uttar pradesh,p2p,food,540,262719,486.52,0
+36-45,uttar pradesh,p2p,fuel,363,655226,1805.03,2
+36-45,uttar pradesh,p2p,grocery,677,862940,1274.65,1
+36-45,uttar pradesh,p2p,healthcare,152,98202,646.07,0
+36-45,uttar pradesh,p2p,other,315,268006,850.81,1
+36-45,uttar pradesh,p2p,shopping,404,953027,2358.98,0
+36-45,uttar pradesh,p2p,transport,263,86945,330.59,1
+36-45,uttar pradesh,p2p,utilities,293,809141,2761.57,0
+36-45,uttar pradesh,recharge,education,11,83129,7557.18,0
+36-45,uttar pradesh,recharge,entertainment,33,11933,361.61,0
+36-45,uttar pradesh,recharge,food,57,26757,469.42,1
+36-45,uttar pradesh,recharge,fuel,43,92651,2154.67,0
+36-45,uttar pradesh,recharge,grocery,70,83328,1190.4,1
+36-45,uttar pradesh,recharge,healthcare,19,12483,657.0,0
+36-45,uttar pradesh,recharge,other,34,26442,777.71,0
+36-45,uttar pradesh,recharge,shopping,50,107753,2155.06,0
+36-45,uttar pradesh,recharge,transport,28,7010,250.36,0
+36-45,uttar pradesh,recharge,utilities,28,70668,2523.86,0
+36-45,west bengal,bill payment,education,25,138640,5545.6,0
+36-45,west bengal,bill payment,entertainment,63,23292,369.71,0
+36-45,west bengal,bill payment,food,111,60008,540.61,0
+36-45,west bengal,bill payment,fuel,75,158873,2118.31,0
+36-45,west bengal,bill payment,grocery,136,191592,1408.76,0
+36-45,west bengal,bill payment,healthcare,42,25405,604.88,0
+36-45,west bengal,bill payment,other,77,56724,736.68,0
+36-45,west bengal,bill payment,shopping,84,165836,1974.24,0
+36-45,west bengal,bill payment,transport,56,17129,305.88,0
+36-45,west bengal,bill payment,utilities,66,208525,3159.47,0
+36-45,west bengal,p2m,education,66,514560,7796.36,0
+36-45,west bengal,p2m,entertainment,123,46139,375.11,0
+36-45,west bengal,p2m,food,269,132277,491.74,2
+36-45,west bengal,p2m,fuel,188,343554,1827.41,0
+36-45,west bengal,p2m,grocery,371,480103,1294.08,1
+36-45,west bengal,p2m,healthcare,74,45065,608.99,0
+36-45,west bengal,p2m,other,163,137482,843.45,0
+36-45,west bengal,p2m,shopping,210,457629,2179.19,0
+36-45,west bengal,p2m,transport,130,42079,323.68,0
+36-45,west bengal,p2m,utilities,173,455107,2630.68,0
+36-45,west bengal,p2p,education,61,350023,5738.08,1
+36-45,west bengal,p2p,entertainment,216,78911,365.33,0
+36-45,west bengal,p2p,food,317,147812,466.28,0
+36-45,west bengal,p2p,fuel,212,381525,1799.65,0
+36-45,west bengal,p2p,grocery,437,580031,1327.3,2
+36-45,west bengal,p2p,healthcare,105,66405,632.43,0
+36-45,west bengal,p2p,other,208,144705,695.7,0
+36-45,west bengal,p2p,shopping,272,585098,2151.1,0
+36-45,west bengal,p2p,transport,174,52866,303.83,0
+36-45,west bengal,p2p,utilities,220,589082,2677.65,0
+36-45,west bengal,recharge,education,11,46053,4186.64,0
+36-45,west bengal,recharge,entertainment,23,7562,328.78,0
+36-45,west bengal,recharge,food,46,21688,471.48,0
+36-45,west bengal,recharge,fuel,25,41571,1662.84,0
+36-45,west bengal,recharge,grocery,64,83111,1298.61,0
+36-45,west bengal,recharge,healthcare,14,8279,591.36,0
+36-45,west bengal,recharge,other,24,17706,737.75,0
+36-45,west bengal,recharge,shopping,25,58903,2356.12,1
+36-45,west bengal,recharge,transport,27,7696,285.04,0
+36-45,west bengal,recharge,utilities,19,54634,2875.47,0
+46-55,andhra pradesh,bill payment,education,11,84806,7709.64,0
+46-55,andhra pradesh,bill payment,entertainment,13,3415,262.69,0
+46-55,andhra pradesh,bill payment,food,40,16821,420.52,0
+46-55,andhra pradesh,bill payment,fuel,25,37940,1517.6,0
+46-55,andhra pradesh,bill payment,grocery,61,74714,1224.82,0
+46-55,andhra pradesh,bill payment,healthcare,13,13456,1035.08,0
+46-55,andhra pradesh,bill payment,other,31,26162,843.94,0
+46-55,andhra pradesh,bill payment,shopping,39,86827,2226.33,0
+46-55,andhra pradesh,bill payment,transport,31,7793,251.39,0
+46-55,andhra pradesh,bill payment,utilities,30,73789,2459.63,0
+46-55,andhra pradesh,p2m,education,23,101433,4410.13,0
+46-55,andhra pradesh,p2m,entertainment,59,18394,311.76,0
+46-55,andhra pradesh,p2m,food,108,46564,431.15,0
+46-55,andhra pradesh,p2m,fuel,56,90452,1615.21,1
+46-55,andhra pradesh,p2m,grocery,152,180213,1185.61,1
+46-55,andhra pradesh,p2m,healthcare,39,24712,633.64,0
+46-55,andhra pradesh,p2m,other,66,45977,696.62,0
+46-55,andhra pradesh,p2m,shopping,76,152904,2011.89,0
+46-55,andhra pradesh,p2m,transport,65,17367,267.18,0
+46-55,andhra pradesh,p2m,utilities,74,243862,3295.43,0
+46-55,andhra pradesh,p2p,education,26,134481,5172.35,0
+46-55,andhra pradesh,p2p,entertainment,70,21169,302.41,0
+46-55,andhra pradesh,p2p,food,133,67128,504.72,0
+46-55,andhra pradesh,p2p,fuel,107,184922,1728.24,0
+46-55,andhra pradesh,p2p,grocery,189,252796,1337.54,0
+46-55,andhra pradesh,p2p,healthcare,42,32232,767.43,0
+46-55,andhra pradesh,p2p,other,77,60614,787.19,1
+46-55,andhra pradesh,p2p,shopping,98,175232,1788.08,0
+46-55,andhra pradesh,p2p,transport,83,34890,420.36,0
+46-55,andhra pradesh,p2p,utilities,71,192354,2709.21,0
+46-55,andhra pradesh,recharge,education,4,12545,3136.25,0
+46-55,andhra pradesh,recharge,entertainment,10,3430,343.0,0
+46-55,andhra pradesh,recharge,food,14,8695,621.07,0
+46-55,andhra pradesh,recharge,fuel,8,16680,2085.0,0
+46-55,andhra pradesh,recharge,grocery,18,20874,1159.67,0
+46-55,andhra pradesh,recharge,healthcare,6,4517,752.83,0
+46-55,andhra pradesh,recharge,other,6,2693,448.83,0
+46-55,andhra pradesh,recharge,shopping,9,28126,3125.11,0
+46-55,andhra pradesh,recharge,transport,5,1889,377.8,0
+46-55,andhra pradesh,recharge,utilities,10,31546,3154.6,0
+46-55,delhi,bill payment,education,17,104682,6157.76,0
+46-55,delhi,bill payment,entertainment,26,7268,279.54,0
+46-55,delhi,bill payment,food,55,29333,533.33,0
+46-55,delhi,bill payment,fuel,42,72085,1716.31,0
+46-55,delhi,bill payment,grocery,59,76648,1299.12,0
+46-55,delhi,bill payment,healthcare,13,9325,717.31,0
+46-55,delhi,bill payment,other,29,25439,877.21,0
+46-55,delhi,bill payment,shopping,52,83356,1603.0,0
+46-55,delhi,bill payment,transport,24,9692,403.83,0
+46-55,delhi,bill payment,utilities,24,85035,3543.12,0
+46-55,delhi,p2m,education,17,107670,6333.53,0
+46-55,delhi,p2m,entertainment,70,23389,334.13,0
+46-55,delhi,p2m,food,115,49914,434.03,0
+46-55,delhi,p2m,fuel,78,109800,1407.69,0
+46-55,delhi,p2m,grocery,157,210982,1343.83,0
+46-55,delhi,p2m,healthcare,51,37201,729.43,0
+46-55,delhi,p2m,other,93,79877,858.89,0
+46-55,delhi,p2m,shopping,95,196921,2072.85,0
+46-55,delhi,p2m,transport,66,20875,316.29,0
+46-55,delhi,p2m,utilities,68,235021,3456.19,0
+46-55,delhi,p2p,education,39,199369,5112.03,0
+46-55,delhi,p2p,entertainment,100,32145,321.45,0
+46-55,delhi,p2p,food,185,83279,450.16,0
+46-55,delhi,p2p,fuel,99,175705,1774.8,0
+46-55,delhi,p2p,grocery,225,270190,1200.84,0
+46-55,delhi,p2p,healthcare,44,44635,1014.43,0
+46-55,delhi,p2p,other,95,78139,822.52,0
+46-55,delhi,p2p,shopping,151,291586,1931.03,0
+46-55,delhi,p2p,transport,110,30526,277.51,0
+46-55,delhi,p2p,utilities,115,317810,2763.57,1
+46-55,delhi,recharge,education,2,16881,8440.5,0
+46-55,delhi,recharge,entertainment,14,3757,268.36,0
+46-55,delhi,recharge,food,21,13755,655.0,0
+46-55,delhi,recharge,fuel,9,15774,1752.67,0
+46-55,delhi,recharge,grocery,24,33259,1385.79,0
+46-55,delhi,recharge,healthcare,5,2215,443.0,0
+46-55,delhi,recharge,other,7,5012,716.0,0
+46-55,delhi,recharge,shopping,11,13347,1213.36,0
+46-55,delhi,recharge,transport,15,3529,235.27,0
+46-55,delhi,recharge,utilities,6,17854,2975.67,0
+46-55,gujarat,bill payment,education,6,34110,5685.0,0
+46-55,gujarat,bill payment,entertainment,19,5952,313.26,0
+46-55,gujarat,bill payment,food,47,25482,542.17,0
+46-55,gujarat,bill payment,fuel,28,56567,2020.25,0
+46-55,gujarat,bill payment,grocery,75,98168,1308.91,0
+46-55,gujarat,bill payment,healthcare,16,10614,663.38,0
+46-55,gujarat,bill payment,other,39,24394,625.49,0
+46-55,gujarat,bill payment,shopping,38,62841,1653.71,0
+46-55,gujarat,bill payment,transport,24,8633,359.71,0
+46-55,gujarat,bill payment,utilities,31,91638,2956.06,0
+46-55,gujarat,p2m,education,26,135345,5205.58,0
+46-55,gujarat,p2m,entertainment,45,12907,286.82,0
+46-55,gujarat,p2m,food,102,45066,441.82,0
+46-55,gujarat,p2m,fuel,80,139901,1748.76,0
+46-55,gujarat,p2m,grocery,155,186777,1205.01,0
+46-55,gujarat,p2m,healthcare,33,27536,834.42,0
+46-55,gujarat,p2m,other,77,54833,712.12,0
+46-55,gujarat,p2m,shopping,86,191995,2232.5,1
+46-55,gujarat,p2m,transport,56,19100,341.07,0
+46-55,gujarat,p2m,utilities,66,195219,2957.86,0
+46-55,gujarat,p2p,education,23,105292,4577.91,0
+46-55,gujarat,p2p,entertainment,77,20346,264.23,0
+46-55,gujarat,p2p,food,128,53614,418.86,0
+46-55,gujarat,p2p,fuel,69,111241,1612.19,0
+46-55,gujarat,p2p,grocery,168,204796,1219.02,0
+46-55,gujarat,p2p,healthcare,44,41275,938.07,0
+46-55,gujarat,p2p,other,105,85688,816.08,0
+46-55,gujarat,p2p,shopping,122,232410,1905.0,0
+46-55,gujarat,p2p,transport,69,15482,224.38,1
+46-55,gujarat,p2p,utilities,79,211485,2677.03,0
+46-55,gujarat,recharge,entertainment,10,3105,310.5,0
+46-55,gujarat,recharge,food,18,9506,528.11,0
+46-55,gujarat,recharge,fuel,10,14321,1432.1,0
+46-55,gujarat,recharge,grocery,20,20063,1003.15,0
+46-55,gujarat,recharge,healthcare,4,1577,394.25,0
+46-55,gujarat,recharge,other,7,4702,671.71,0
+46-55,gujarat,recharge,shopping,13,17708,1362.15,0
+46-55,gujarat,recharge,transport,4,1186,296.5,0
+46-55,gujarat,recharge,utilities,13,52792,4060.92,0
+46-55,karnataka,bill payment,education,16,79206,4950.38,0
+46-55,karnataka,bill payment,entertainment,36,8988,249.67,0
+46-55,karnataka,bill payment,food,68,33072,486.35,0
+46-55,karnataka,bill payment,fuel,35,55051,1572.89,0
+46-55,karnataka,bill payment,grocery,93,112298,1207.51,0
+46-55,karnataka,bill payment,healthcare,23,15889,690.83,0
+46-55,karnataka,bill payment,other,45,38750,861.11,1
+46-55,karnataka,bill payment,shopping,42,67815,1614.64,0
+46-55,karnataka,bill payment,transport,40,10955,273.88,0
+46-55,karnataka,bill payment,utilities,37,119583,3231.97,0
+46-55,karnataka,p2m,education,35,198215,5663.29,0
+46-55,karnataka,p2m,entertainment,86,23178,269.51,0
+46-55,karnataka,p2m,food,178,96115,539.97,0
+46-55,karnataka,p2m,fuel,102,171167,1678.11,0
+46-55,karnataka,p2m,grocery,199,236748,1189.69,0
+46-55,karnataka,p2m,healthcare,36,30021,833.92,0
+46-55,karnataka,p2m,other,99,69669,703.73,1
+46-55,karnataka,p2m,shopping,115,282429,2455.9,0
+46-55,karnataka,p2m,transport,68,18391,270.46,0
+46-55,karnataka,p2m,utilities,116,337128,2906.28,0
+46-55,karnataka,p2p,education,50,343829,6876.58,0
+46-55,karnataka,p2p,entertainment,126,39352,312.32,0
+46-55,karnataka,p2p,food,194,82680,426.19,1
+46-55,karnataka,p2p,fuel,117,184696,1578.6,0
+46-55,karnataka,p2p,grocery,273,332156,1216.69,0
+46-55,karnataka,p2p,healthcare,76,61321,806.86,0
+46-55,karnataka,p2p,other,126,85133,675.66,0
+46-55,karnataka,p2p,shopping,153,284910,1862.16,0
+46-55,karnataka,p2p,transport,100,25093,250.93,0
+46-55,karnataka,p2p,utilities,113,374791,3316.73,0
+46-55,karnataka,recharge,education,2,5238,2619.0,0
+46-55,karnataka,recharge,entertainment,10,1623,162.3,0
+46-55,karnataka,recharge,food,24,14956,623.17,0
+46-55,karnataka,recharge,fuel,19,28985,1525.53,0
+46-55,karnataka,recharge,grocery,35,37787,1079.63,0
+46-55,karnataka,recharge,healthcare,6,4154,692.33,0
+46-55,karnataka,recharge,other,11,12327,1120.64,0
+46-55,karnataka,recharge,shopping,21,36968,1760.38,0
+46-55,karnataka,recharge,transport,11,2869,260.82,0
+46-55,karnataka,recharge,utilities,13,57451,4419.31,1
+46-55,maharashtra,bill payment,education,16,71922,4495.12,0
+46-55,maharashtra,bill payment,entertainment,43,12523,291.23,1
+46-55,maharashtra,bill payment,food,73,27169,372.18,0
+46-55,maharashtra,bill payment,fuel,64,103296,1614.0,0
+46-55,maharashtra,bill payment,grocery,111,167468,1508.72,1
+46-55,maharashtra,bill payment,healthcare,23,21644,941.04,0
+46-55,maharashtra,bill payment,other,49,38259,780.8,0
+46-55,maharashtra,bill payment,shopping,72,144753,2010.46,0
+46-55,maharashtra,bill payment,transport,45,11600,257.78,0
+46-55,maharashtra,bill payment,utilities,40,112261,2806.52,0
+46-55,maharashtra,p2m,education,46,238643,5187.89,0
+46-55,maharashtra,p2m,entertainment,104,36265,348.7,0
+46-55,maharashtra,p2m,food,206,95998,466.01,0
+46-55,maharashtra,p2m,fuel,128,178468,1394.28,0
+46-55,maharashtra,p2m,grocery,268,361012,1347.06,0
+46-55,maharashtra,p2m,healthcare,67,55272,824.96,0
+46-55,maharashtra,p2m,other,136,103479,760.88,0
+46-55,maharashtra,p2m,shopping,137,291281,2126.14,0
+46-55,maharashtra,p2m,transport,127,34290,270.0,0
+46-55,maharashtra,p2m,utilities,126,333258,2644.9,0
+46-55,maharashtra,p2p,education,55,341961,6217.47,0
+46-55,maharashtra,p2p,entertainment,137,38007,277.42,0
+46-55,maharashtra,p2p,food,249,124111,498.44,1
+46-55,maharashtra,p2p,fuel,170,295426,1737.8,1
+46-55,maharashtra,p2p,grocery,323,367449,1137.61,0
+46-55,maharashtra,p2p,healthcare,80,59162,739.52,0
+46-55,maharashtra,p2p,other,186,130410,701.13,0
+46-55,maharashtra,p2p,shopping,212,409520,1931.7,0
+46-55,maharashtra,p2p,transport,122,35845,293.81,0
+46-55,maharashtra,p2p,utilities,145,443564,3059.06,0
+46-55,maharashtra,recharge,education,5,12689,2537.8,0
+46-55,maharashtra,recharge,entertainment,10,3744,374.4,0
+46-55,maharashtra,recharge,food,29,15635,539.14,0
+46-55,maharashtra,recharge,fuel,20,30877,1543.85,0
+46-55,maharashtra,recharge,grocery,25,24823,992.92,0
+46-55,maharashtra,recharge,healthcare,9,6948,772.0,0
+46-55,maharashtra,recharge,other,14,7620,544.29,0
+46-55,maharashtra,recharge,shopping,19,43281,2277.95,0
+46-55,maharashtra,recharge,transport,17,3749,220.53,0
+46-55,maharashtra,recharge,utilities,11,43921,3992.82,0
+46-55,rajasthan,bill payment,education,12,81527,6793.92,0
+46-55,rajasthan,bill payment,entertainment,15,4936,329.07,0
+46-55,rajasthan,bill payment,food,38,22689,597.08,0
+46-55,rajasthan,bill payment,fuel,39,79655,2042.44,0
+46-55,rajasthan,bill payment,grocery,59,84272,1428.34,0
+46-55,rajasthan,bill payment,healthcare,20,14638,731.9,0
+46-55,rajasthan,bill payment,other,29,21926,756.07,0
+46-55,rajasthan,bill payment,shopping,32,42402,1325.06,0
+46-55,rajasthan,bill payment,transport,22,5893,267.86,0
+46-55,rajasthan,bill payment,utilities,28,116497,4160.61,0
+46-55,rajasthan,p2m,education,13,99661,7666.23,0
+46-55,rajasthan,p2m,entertainment,66,22895,346.89,0
+46-55,rajasthan,p2m,food,87,36786,422.83,0
+46-55,rajasthan,p2m,fuel,75,124420,1658.93,0
+46-55,rajasthan,p2m,grocery,145,216742,1494.77,0
+46-55,rajasthan,p2m,healthcare,35,26570,759.14,0
+46-55,rajasthan,p2m,other,70,47454,677.91,1
+46-55,rajasthan,p2m,shopping,88,164328,1867.36,0
+46-55,rajasthan,p2m,transport,67,18284,272.9,1
+46-55,rajasthan,p2m,utilities,63,189758,3012.03,0
+46-55,rajasthan,p2p,education,35,211998,6057.09,0
+46-55,rajasthan,p2p,entertainment,67,20081,299.72,0
+46-55,rajasthan,p2p,food,138,63084,457.13,0
+46-55,rajasthan,p2p,fuel,83,145382,1751.59,0
+46-55,rajasthan,p2p,grocery,173,208495,1205.17,2
+46-55,rajasthan,p2p,healthcare,37,21280,575.14,0
+46-55,rajasthan,p2p,other,86,65916,766.47,0
+46-55,rajasthan,p2p,shopping,116,217420,1874.31,0
+46-55,rajasthan,p2p,transport,74,19477,263.2,0
+46-55,rajasthan,p2p,utilities,66,205952,3120.48,0
+46-55,rajasthan,recharge,education,2,4030,2015.0,0
+46-55,rajasthan,recharge,entertainment,11,2977,270.64,0
+46-55,rajasthan,recharge,food,13,3386,260.46,0
+46-55,rajasthan,recharge,fuel,12,11821,985.08,0
+46-55,rajasthan,recharge,grocery,20,22385,1119.25,0
+46-55,rajasthan,recharge,healthcare,7,2465,352.14,0
+46-55,rajasthan,recharge,other,15,11847,789.8,0
+46-55,rajasthan,recharge,shopping,11,18609,1691.73,1
+46-55,rajasthan,recharge,transport,15,3909,260.6,0
+46-55,rajasthan,recharge,utilities,12,34648,2887.33,0
+46-55,tamil nadu,bill payment,education,7,41464,5923.43,0
+46-55,tamil nadu,bill payment,entertainment,23,6886,299.39,0
+46-55,tamil nadu,bill payment,food,56,23527,420.12,0
+46-55,tamil nadu,bill payment,fuel,32,66433,2076.03,0
+46-55,tamil nadu,bill payment,grocery,73,95106,1302.82,0
+46-55,tamil nadu,bill payment,healthcare,15,9168,611.2,1
+46-55,tamil nadu,bill payment,other,34,26019,765.26,0
+46-55,tamil nadu,bill payment,shopping,55,99559,1810.16,0
+46-55,tamil nadu,bill payment,transport,29,7491,258.31,0
+46-55,tamil nadu,bill payment,utilities,28,102960,3677.14,0
+46-55,tamil nadu,p2m,education,36,192607,5350.19,0
+46-55,tamil nadu,p2m,entertainment,84,27626,328.88,0
+46-55,tamil nadu,p2m,food,132,69762,528.5,0
+46-55,tamil nadu,p2m,fuel,90,165409,1837.88,0
+46-55,tamil nadu,p2m,grocery,175,224730,1284.17,0
+46-55,tamil nadu,p2m,healthcare,46,29260,636.09,0
+46-55,tamil nadu,p2m,other,76,57278,753.66,0
+46-55,tamil nadu,p2m,shopping,99,180975,1828.03,0
+46-55,tamil nadu,p2m,transport,68,18737,275.54,0
+46-55,tamil nadu,p2m,utilities,67,193375,2886.19,0
+46-55,tamil nadu,p2p,education,31,213983,6902.68,0
+46-55,tamil nadu,p2p,entertainment,100,29648,296.48,0
+46-55,tamil nadu,p2p,food,171,72739,425.37,1
+46-55,tamil nadu,p2p,fuel,102,167664,1643.76,0
+46-55,tamil nadu,p2p,grocery,204,227755,1116.45,0
+46-55,tamil nadu,p2p,healthcare,53,39063,737.04,0
+46-55,tamil nadu,p2p,other,105,81788,778.93,0
+46-55,tamil nadu,p2p,shopping,144,303285,2106.15,0
+46-55,tamil nadu,p2p,transport,101,24162,239.23,0
+46-55,tamil nadu,p2p,utilities,96,358066,3729.85,0
+46-55,tamil nadu,recharge,education,3,18741,6247.0,0
+46-55,tamil nadu,recharge,entertainment,13,4770,366.92,0
+46-55,tamil nadu,recharge,food,15,5439,362.6,0
+46-55,tamil nadu,recharge,fuel,11,15232,1384.73,0
+46-55,tamil nadu,recharge,grocery,27,33751,1250.04,0
+46-55,tamil nadu,recharge,healthcare,7,5463,780.43,0
+46-55,tamil nadu,recharge,other,13,8965,689.62,0
+46-55,tamil nadu,recharge,shopping,21,36964,1760.19,0
+46-55,tamil nadu,recharge,transport,13,4479,344.54,0
+46-55,tamil nadu,recharge,utilities,11,31571,2870.09,0
+46-55,telangana,bill payment,education,4,42255,10563.75,0
+46-55,telangana,bill payment,entertainment,29,10151,350.03,0
+46-55,telangana,bill payment,food,49,23194,473.35,0
+46-55,telangana,bill payment,fuel,36,71498,1986.06,0
+46-55,telangana,bill payment,grocery,52,61007,1173.21,0
+46-55,telangana,bill payment,healthcare,20,17356,867.8,0
+46-55,telangana,bill payment,other,32,27066,845.81,1
+46-55,telangana,bill payment,shopping,47,95420,2030.21,0
+46-55,telangana,bill payment,transport,32,7924,247.62,0
+46-55,telangana,bill payment,utilities,23,83615,3635.43,0
+46-55,telangana,p2m,education,18,104336,5796.44,0
+46-55,telangana,p2m,entertainment,69,18097,262.28,0
+46-55,telangana,p2m,food,113,60417,534.66,0
+46-55,telangana,p2m,fuel,69,129301,1873.93,0
+46-55,telangana,p2m,grocery,155,198872,1283.05,0
+46-55,telangana,p2m,healthcare,50,35425,708.5,0
+46-55,telangana,p2m,other,70,58631,837.59,1
+46-55,telangana,p2m,shopping,101,205008,2029.78,0
+46-55,telangana,p2m,transport,69,19265,279.2,0
+46-55,telangana,p2m,utilities,72,183539,2549.15,0
+46-55,telangana,p2p,education,27,183819,6808.11,0
+46-55,telangana,p2p,entertainment,92,26482,287.85,0
+46-55,telangana,p2p,food,164,79569,485.18,0
+46-55,telangana,p2p,fuel,90,153069,1700.77,0
+46-55,telangana,p2p,grocery,231,283587,1227.65,1
+46-55,telangana,p2p,healthcare,48,38853,809.44,0
+46-55,telangana,p2p,other,111,86794,781.93,2
+46-55,telangana,p2p,shopping,127,238467,1877.69,1
+46-55,telangana,p2p,transport,80,24248,303.1,0
+46-55,telangana,p2p,utilities,92,281655,3061.47,0
+46-55,telangana,recharge,education,3,6308,2102.67,0
+46-55,telangana,recharge,entertainment,9,2621,291.22,0
+46-55,telangana,recharge,food,16,7143,446.44,0
+46-55,telangana,recharge,fuel,6,6010,1001.67,0
+46-55,telangana,recharge,grocery,25,33270,1330.8,0
+46-55,telangana,recharge,healthcare,10,9741,974.1,0
+46-55,telangana,recharge,other,10,11092,1109.2,0
+46-55,telangana,recharge,shopping,16,27867,1741.69,0
+46-55,telangana,recharge,transport,3,1148,382.67,0
+46-55,telangana,recharge,utilities,5,13439,2687.8,0
+46-55,uttar pradesh,bill payment,education,15,93252,6216.8,0
+46-55,uttar pradesh,bill payment,entertainment,22,5334,242.45,0
+46-55,uttar pradesh,bill payment,food,67,28934,431.85,0
+46-55,uttar pradesh,bill payment,fuel,39,64110,1643.85,0
+46-55,uttar pradesh,bill payment,grocery,104,118801,1142.32,0
+46-55,uttar pradesh,bill payment,healthcare,35,22368,639.09,0
+46-55,uttar pradesh,bill payment,other,50,42264,845.28,0
+46-55,uttar pradesh,bill payment,shopping,52,99888,1920.92,0
+46-55,uttar pradesh,bill payment,transport,48,16071,334.81,0
+46-55,uttar pradesh,bill payment,utilities,46,158411,3443.72,0
+46-55,uttar pradesh,p2m,education,35,247952,7084.34,0
+46-55,uttar pradesh,p2m,entertainment,85,28013,329.56,0
+46-55,uttar pradesh,p2m,food,178,86457,485.71,0
+46-55,uttar pradesh,p2m,fuel,94,143913,1530.99,0
+46-55,uttar pradesh,p2m,grocery,218,296928,1362.06,1
+46-55,uttar pradesh,p2m,healthcare,46,39448,857.57,0
+46-55,uttar pradesh,p2m,other,95,75671,796.54,0
+46-55,uttar pradesh,p2m,shopping,136,290643,2137.08,0
+46-55,uttar pradesh,p2m,transport,83,23838,287.2,0
+46-55,uttar pradesh,p2m,utilities,83,218173,2628.59,0
+46-55,uttar pradesh,p2p,education,37,226282,6115.73,0
+46-55,uttar pradesh,p2p,entertainment,96,26267,273.61,0
+46-55,uttar pradesh,p2p,food,184,83963,456.32,1
+46-55,uttar pradesh,p2p,fuel,133,254132,1910.77,0
+46-55,uttar pradesh,p2p,grocery,260,315248,1212.49,0
+46-55,uttar pradesh,p2p,healthcare,80,63746,796.82,0
+46-55,uttar pradesh,p2p,other,132,96574,731.62,0
+46-55,uttar pradesh,p2p,shopping,167,302310,1810.24,0
+46-55,uttar pradesh,p2p,transport,103,32399,314.55,0
+46-55,uttar pradesh,p2p,utilities,125,413908,3311.26,0
+46-55,uttar pradesh,recharge,education,4,12197,3049.25,0
+46-55,uttar pradesh,recharge,entertainment,14,4840,345.71,0
+46-55,uttar pradesh,recharge,food,16,7904,494.0,0
+46-55,uttar pradesh,recharge,fuel,14,30465,2176.07,0
+46-55,uttar pradesh,recharge,grocery,31,54716,1765.03,0
+46-55,uttar pradesh,recharge,healthcare,11,6544,594.91,0
+46-55,uttar pradesh,recharge,other,17,9812,577.18,0
+46-55,uttar pradesh,recharge,shopping,24,40563,1690.12,0
+46-55,uttar pradesh,recharge,transport,11,3000,272.73,0
+46-55,uttar pradesh,recharge,utilities,9,30181,3353.44,0
+46-55,west bengal,bill payment,education,7,51235,7319.29,0
+46-55,west bengal,bill payment,entertainment,27,7704,285.33,0
+46-55,west bengal,bill payment,food,43,16987,395.05,0
+46-55,west bengal,bill payment,fuel,31,42467,1369.9,0
+46-55,west bengal,bill payment,grocery,57,66447,1165.74,0
+46-55,west bengal,bill payment,healthcare,13,10236,787.38,0
+46-55,west bengal,bill payment,other,29,15321,528.31,0
+46-55,west bengal,bill payment,shopping,40,69166,1729.15,0
+46-55,west bengal,bill payment,transport,22,4562,207.36,0
+46-55,west bengal,bill payment,utilities,20,45889,2294.45,0
+46-55,west bengal,p2m,education,15,88617,5907.8,0
+46-55,west bengal,p2m,entertainment,50,15111,302.22,0
+46-55,west bengal,p2m,food,117,48612,415.49,0
+46-55,west bengal,p2m,fuel,84,124992,1488.0,0
+46-55,west bengal,p2m,grocery,117,153397,1311.09,0
+46-55,west bengal,p2m,healthcare,33,26006,788.06,0
+46-55,west bengal,p2m,other,56,41785,746.16,1
+46-55,west bengal,p2m,shopping,82,154450,1883.54,0
+46-55,west bengal,p2m,transport,68,19408,285.41,0
+46-55,west bengal,p2m,utilities,57,207195,3635.0,1
+46-55,west bengal,p2p,education,20,134445,6722.25,0
+46-55,west bengal,p2p,entertainment,62,19319,311.6,0
+46-55,west bengal,p2p,food,148,70550,476.69,0
+46-55,west bengal,p2p,fuel,77,114401,1485.73,0
+46-55,west bengal,p2p,grocery,185,225405,1218.41,0
+46-55,west bengal,p2p,healthcare,39,35137,900.95,0
+46-55,west bengal,p2p,other,89,61870,695.17,0
+46-55,west bengal,p2p,shopping,141,281596,1997.13,0
+46-55,west bengal,p2p,transport,67,14444,215.58,0
+46-55,west bengal,p2p,utilities,85,318229,3743.87,0
+46-55,west bengal,recharge,education,1,6829,6829.0,0
+46-55,west bengal,recharge,entertainment,10,2302,230.2,0
+46-55,west bengal,recharge,food,10,6960,696.0,0
+46-55,west bengal,recharge,fuel,8,19428,2428.5,0
+46-55,west bengal,recharge,grocery,30,42967,1432.23,0
+46-55,west bengal,recharge,healthcare,7,10347,1478.14,0
+46-55,west bengal,recharge,other,15,13617,907.8,0
+46-55,west bengal,recharge,shopping,8,14943,1867.88,0
+46-55,west bengal,recharge,transport,6,1515,252.5,0
+46-55,west bengal,recharge,utilities,3,945,315.0,0
+56+,andhra pradesh,bill payment,education,2,10625,5312.5,0
+56+,andhra pradesh,bill payment,entertainment,15,3122,208.13,0
+56+,andhra pradesh,bill payment,food,29,10852,374.21,0
+56+,andhra pradesh,bill payment,fuel,10,12666,1266.6,0
+56+,andhra pradesh,bill payment,grocery,24,27552,1148.0,0
+56+,andhra pradesh,bill payment,healthcare,10,17138,1713.8,0
+56+,andhra pradesh,bill payment,other,19,14883,783.32,0
+56+,andhra pradesh,bill payment,shopping,13,16295,1253.46,0
+56+,andhra pradesh,bill payment,transport,16,2361,147.56,0
+56+,andhra pradesh,bill payment,utilities,6,23552,3925.33,0
+56+,andhra pradesh,p2m,education,11,45804,4164.0,0
+56+,andhra pradesh,p2m,entertainment,35,8514,243.26,0
+56+,andhra pradesh,p2m,food,44,18998,431.77,1
+56+,andhra pradesh,p2m,fuel,34,40368,1187.29,0
+56+,andhra pradesh,p2m,grocery,74,76409,1032.55,0
+56+,andhra pradesh,p2m,healthcare,23,26177,1138.13,0
+56+,andhra pradesh,p2m,other,31,21304,687.23,0
+56+,andhra pradesh,p2m,shopping,46,95219,2069.98,0
+56+,andhra pradesh,p2m,transport,25,4274,170.96,0
+56+,andhra pradesh,p2m,utilities,40,150217,3755.42,0
+56+,andhra pradesh,p2p,education,12,36673,3056.08,0
+56+,andhra pradesh,p2p,entertainment,39,10036,257.33,1
+56+,andhra pradesh,p2p,food,74,38161,515.69,0
+56+,andhra pradesh,p2p,fuel,42,57019,1357.6,0
+56+,andhra pradesh,p2p,grocery,103,123686,1200.83,0
+56+,andhra pradesh,p2p,healthcare,27,26736,990.22,0
+56+,andhra pradesh,p2p,other,54,41507,768.65,0
+56+,andhra pradesh,p2p,shopping,65,70497,1084.57,0
+56+,andhra pradesh,p2p,transport,39,8179,209.72,0
+56+,andhra pradesh,p2p,utilities,47,128478,2733.57,0
+56+,andhra pradesh,recharge,entertainment,5,1285,257.0,0
+56+,andhra pradesh,recharge,food,5,1388,277.6,0
+56+,andhra pradesh,recharge,fuel,6,7622,1270.33,0
+56+,andhra pradesh,recharge,grocery,6,8302,1383.67,0
+56+,andhra pradesh,recharge,healthcare,3,1799,599.67,0
+56+,andhra pradesh,recharge,other,7,2249,321.29,0
+56+,andhra pradesh,recharge,shopping,5,13104,2620.8,0
+56+,andhra pradesh,recharge,transport,6,1021,170.17,0
+56+,andhra pradesh,recharge,utilities,5,9693,1938.6,0
+56+,delhi,bill payment,education,4,8654,2163.5,0
+56+,delhi,bill payment,entertainment,16,4456,278.5,0
+56+,delhi,bill payment,food,25,13181,527.24,0
+56+,delhi,bill payment,fuel,20,17169,858.45,0
+56+,delhi,bill payment,grocery,36,34299,952.75,0
+56+,delhi,bill payment,healthcare,6,5627,937.83,0
+56+,delhi,bill payment,other,21,16949,807.1,0
+56+,delhi,bill payment,shopping,26,41021,1577.73,0
+56+,delhi,bill payment,transport,15,4107,273.8,0
+56+,delhi,bill payment,utilities,14,33154,2368.14,0
+56+,delhi,p2m,education,16,70074,4379.62,0
+56+,delhi,p2m,entertainment,32,7221,225.66,0
+56+,delhi,p2m,food,66,29659,449.38,0
+56+,delhi,p2m,fuel,39,54143,1388.28,0
+56+,delhi,p2m,grocery,87,86864,998.44,0
+56+,delhi,p2m,healthcare,28,26125,933.04,0
+56+,delhi,p2m,other,44,27124,616.45,0
+56+,delhi,p2m,shopping,62,108379,1748.05,1
+56+,delhi,p2m,transport,32,8673,271.03,0
+56+,delhi,p2m,utilities,34,118558,3487.0,0
+56+,delhi,p2p,education,17,62821,3695.35,0
+56+,delhi,p2p,entertainment,55,14464,262.98,1
+56+,delhi,p2p,food,80,31270,390.88,0
+56+,delhi,p2p,fuel,71,77970,1098.17,0
+56+,delhi,p2p,grocery,117,113231,967.79,1
+56+,delhi,p2p,healthcare,20,27471,1373.55,0
+56+,delhi,p2p,other,61,41326,677.48,0
+56+,delhi,p2p,shopping,65,89963,1384.05,0
+56+,delhi,p2p,transport,49,9299,189.78,0
+56+,delhi,p2p,utilities,61,207759,3405.89,1
+56+,delhi,recharge,entertainment,5,866,173.2,0
+56+,delhi,recharge,food,12,4278,356.5,0
+56+,delhi,recharge,fuel,7,11389,1627.0,0
+56+,delhi,recharge,grocery,12,10540,878.33,0
+56+,delhi,recharge,healthcare,5,3734,746.8,0
+56+,delhi,recharge,other,4,2858,714.5,0
+56+,delhi,recharge,shopping,8,7753,969.12,0
+56+,delhi,recharge,transport,9,2158,239.78,0
+56+,delhi,recharge,utilities,7,24999,3571.29,0
+56+,gujarat,bill payment,education,4,13837,3459.25,0
+56+,gujarat,bill payment,entertainment,9,2334,259.33,0
+56+,gujarat,bill payment,food,21,9458,450.38,0
+56+,gujarat,bill payment,fuel,13,13315,1024.23,0
+56+,gujarat,bill payment,grocery,36,36173,1004.81,0
+56+,gujarat,bill payment,healthcare,7,9637,1376.71,0
+56+,gujarat,bill payment,other,12,5941,495.08,0
+56+,gujarat,bill payment,shopping,14,23974,1712.43,0
+56+,gujarat,bill payment,transport,12,2982,248.5,0
+56+,gujarat,bill payment,utilities,15,37946,2529.73,0
+56+,gujarat,p2m,education,14,44399,3171.36,0
+56+,gujarat,p2m,entertainment,26,4989,191.88,0
+56+,gujarat,p2m,food,64,28067,438.55,0
+56+,gujarat,p2m,fuel,32,47261,1476.91,0
+56+,gujarat,p2m,grocery,75,79570,1060.93,0
+56+,gujarat,p2m,healthcare,17,14568,856.94,0
+56+,gujarat,p2m,other,33,25246,765.03,0
+56+,gujarat,p2m,shopping,42,65453,1558.4,0
+56+,gujarat,p2m,transport,28,6284,224.43,0
+56+,gujarat,p2m,utilities,38,84977,2236.24,0
+56+,gujarat,p2p,education,16,54168,3385.5,0
+56+,gujarat,p2p,entertainment,39,7898,202.51,0
+56+,gujarat,p2p,food,65,27183,418.2,1
+56+,gujarat,p2p,fuel,54,71082,1316.33,0
+56+,gujarat,p2p,grocery,81,93918,1159.48,0
+56+,gujarat,p2p,healthcare,22,32733,1487.86,0
+56+,gujarat,p2p,other,35,20278,579.37,0
+56+,gujarat,p2p,shopping,48,78153,1628.19,0
+56+,gujarat,p2p,transport,42,7526,179.19,0
+56+,gujarat,p2p,utilities,32,111417,3481.78,0
+56+,gujarat,recharge,education,1,2486,2486.0,0
+56+,gujarat,recharge,entertainment,7,1810,258.57,0
+56+,gujarat,recharge,food,9,3261,362.33,0
+56+,gujarat,recharge,fuel,8,11071,1383.88,0
+56+,gujarat,recharge,grocery,9,5349,594.33,0
+56+,gujarat,recharge,healthcare,2,2373,1186.5,0
+56+,gujarat,recharge,other,7,3519,502.71,0
+56+,gujarat,recharge,shopping,5,14542,2908.4,0
+56+,gujarat,recharge,transport,3,940,313.33,0
+56+,gujarat,recharge,utilities,2,6934,3467.0,0
+56+,karnataka,bill payment,education,11,56062,5096.55,0
+56+,karnataka,bill payment,entertainment,15,5004,333.6,0
+56+,karnataka,bill payment,food,47,20241,430.66,0
+56+,karnataka,bill payment,fuel,25,32447,1297.88,0
+56+,karnataka,bill payment,grocery,47,59453,1264.96,0
+56+,karnataka,bill payment,healthcare,11,11240,1021.82,0
+56+,karnataka,bill payment,other,26,12002,461.62,0
+56+,karnataka,bill payment,shopping,29,49836,1718.48,0
+56+,karnataka,bill payment,transport,17,4946,290.94,0
+56+,karnataka,bill payment,utilities,30,133033,4434.43,0
+56+,karnataka,p2m,education,18,78866,4381.44,0
+56+,karnataka,p2m,entertainment,30,7587,252.9,0
+56+,karnataka,p2m,food,74,33819,457.01,0
+56+,karnataka,p2m,fuel,54,69404,1285.26,0
+56+,karnataka,p2m,grocery,108,108599,1005.55,0
+56+,karnataka,p2m,healthcare,22,22026,1001.18,0
+56+,karnataka,p2m,other,57,35500,622.81,0
+56+,karnataka,p2m,shopping,71,132534,1866.68,0
+56+,karnataka,p2m,transport,34,7856,231.06,0
+56+,karnataka,p2m,utilities,51,160032,3137.88,0
+56+,karnataka,p2p,education,30,103173,3439.1,0
+56+,karnataka,p2p,entertainment,65,14525,223.46,0
+56+,karnataka,p2p,food,107,41347,386.42,0
+56+,karnataka,p2p,fuel,64,73974,1155.84,1
+56+,karnataka,p2p,grocery,147,147732,1004.98,0
+56+,karnataka,p2p,healthcare,32,33412,1044.12,0
+56+,karnataka,p2p,other,71,47876,674.31,0
+56+,karnataka,p2p,shopping,76,119499,1572.36,0
+56+,karnataka,p2p,transport,54,12405,229.72,0
+56+,karnataka,p2p,utilities,68,255428,3756.29,0
+56+,karnataka,recharge,education,1,1834,1834.0,0
+56+,karnataka,recharge,entertainment,4,1071,267.75,0
+56+,karnataka,recharge,food,15,5233,348.87,0
+56+,karnataka,recharge,fuel,8,11030,1378.75,0
+56+,karnataka,recharge,grocery,10,7800,780.0,0
+56+,karnataka,recharge,healthcare,4,5949,1487.25,0
+56+,karnataka,recharge,other,6,4103,683.83,0
+56+,karnataka,recharge,shopping,9,17976,1997.33,0
+56+,karnataka,recharge,transport,7,2027,289.57,0
+56+,karnataka,recharge,utilities,7,15868,2266.86,0
+56+,maharashtra,bill payment,education,10,34479,3447.9,0
+56+,maharashtra,bill payment,entertainment,16,3378,211.12,0
+56+,maharashtra,bill payment,food,52,20350,391.35,0
+56+,maharashtra,bill payment,fuel,31,26402,851.68,0
+56+,maharashtra,bill payment,grocery,56,61088,1090.86,0
+56+,maharashtra,bill payment,healthcare,17,20943,1231.94,0
+56+,maharashtra,bill payment,other,19,9174,482.84,1
+56+,maharashtra,bill payment,shopping,44,64307,1461.52,1
+56+,maharashtra,bill payment,transport,21,3682,175.33,0
+56+,maharashtra,bill payment,utilities,22,81767,3716.68,0
+56+,maharashtra,p2m,education,14,40302,2878.71,0
+56+,maharashtra,p2m,entertainment,47,11614,247.11,0
+56+,maharashtra,p2m,food,81,41053,506.83,0
+56+,maharashtra,p2m,fuel,64,71137,1111.52,0
+56+,maharashtra,p2m,grocery,114,129360,1134.74,0
+56+,maharashtra,p2m,healthcare,32,43120,1347.5,0
+56+,maharashtra,p2m,other,58,33806,582.86,0
+56+,maharashtra,p2m,shopping,71,119454,1682.45,0
+56+,maharashtra,p2m,transport,48,10727,223.48,0
+56+,maharashtra,p2m,utilities,37,116023,3135.76,0
+56+,maharashtra,p2p,education,22,68645,3120.23,0
+56+,maharashtra,p2p,entertainment,55,13058,237.42,0
+56+,maharashtra,p2p,food,144,65854,457.32,1
+56+,maharashtra,p2p,fuel,86,96643,1123.76,0
+56+,maharashtra,p2p,grocery,175,200071,1143.26,0
+56+,maharashtra,p2p,healthcare,34,40590,1193.82,0
+56+,maharashtra,p2p,other,78,56422,723.36,0
+56+,maharashtra,p2p,shopping,108,171742,1590.2,1
+56+,maharashtra,p2p,transport,71,12470,175.63,1
+56+,maharashtra,p2p,utilities,68,224080,3295.29,0
+56+,maharashtra,recharge,education,5,25958,5191.6,0
+56+,maharashtra,recharge,entertainment,10,2990,299.0,0
+56+,maharashtra,recharge,food,11,3618,328.91,0
+56+,maharashtra,recharge,fuel,16,20454,1278.38,0
+56+,maharashtra,recharge,grocery,13,12091,930.08,0
+56+,maharashtra,recharge,healthcare,2,2267,1133.5,0
+56+,maharashtra,recharge,other,12,9945,828.75,0
+56+,maharashtra,recharge,shopping,8,22584,2823.0,0
+56+,maharashtra,recharge,transport,9,1124,124.89,0
+56+,maharashtra,recharge,utilities,8,39999,4999.88,0
+56+,rajasthan,bill payment,education,3,27116,9038.67,0
+56+,rajasthan,bill payment,entertainment,8,1191,148.88,0
+56+,rajasthan,bill payment,food,20,6388,319.4,0
+56+,rajasthan,bill payment,fuel,20,19991,999.55,0
+56+,rajasthan,bill payment,grocery,27,27618,1022.89,0
+56+,rajasthan,bill payment,healthcare,6,4726,787.67,0
+56+,rajasthan,bill payment,other,16,8250,515.62,0
+56+,rajasthan,bill payment,shopping,17,26351,1550.06,0
+56+,rajasthan,bill payment,transport,7,1086,155.14,0
+56+,rajasthan,bill payment,utilities,15,66752,4450.13,0
+56+,rajasthan,p2m,education,9,35089,3898.78,0
+56+,rajasthan,p2m,entertainment,31,7514,242.39,0
+56+,rajasthan,p2m,food,57,27820,488.07,0
+56+,rajasthan,p2m,fuel,36,44023,1222.86,0
+56+,rajasthan,p2m,grocery,70,94375,1348.21,0
+56+,rajasthan,p2m,healthcare,22,31367,1425.77,0
+56+,rajasthan,p2m,other,26,15640,601.54,0
+56+,rajasthan,p2m,shopping,36,44682,1241.17,0
+56+,rajasthan,p2m,transport,39,7785,199.62,0
+56+,rajasthan,p2m,utilities,31,118378,3818.65,1
+56+,rajasthan,p2p,education,15,57271,3818.07,0
+56+,rajasthan,p2p,entertainment,35,9480,270.86,0
+56+,rajasthan,p2p,food,60,31279,521.32,0
+56+,rajasthan,p2p,fuel,46,61810,1343.7,0
+56+,rajasthan,p2p,grocery,102,120341,1179.81,0
+56+,rajasthan,p2p,healthcare,30,36169,1205.63,0
+56+,rajasthan,p2p,other,38,29780,783.68,1
+56+,rajasthan,p2p,shopping,49,87809,1792.02,0
+56+,rajasthan,p2p,transport,43,8275,192.44,0
+56+,rajasthan,p2p,utilities,45,125974,2799.42,0
+56+,rajasthan,recharge,education,3,20147,6715.67,0
+56+,rajasthan,recharge,entertainment,6,2286,381.0,1
+56+,rajasthan,recharge,food,9,4645,516.11,0
+56+,rajasthan,recharge,fuel,5,11136,2227.2,0
+56+,rajasthan,recharge,grocery,13,10307,792.85,0
+56+,rajasthan,recharge,healthcare,5,3368,673.6,0
+56+,rajasthan,recharge,other,4,1979,494.75,0
+56+,rajasthan,recharge,shopping,3,7973,2657.67,0
+56+,rajasthan,recharge,transport,1,32,32.0,0
+56+,rajasthan,recharge,utilities,4,17375,4343.75,0
+56+,tamil nadu,bill payment,education,2,5036,2518.0,0
+56+,tamil nadu,bill payment,entertainment,12,3090,257.5,0
+56+,tamil nadu,bill payment,food,24,12485,520.21,0
+56+,tamil nadu,bill payment,fuel,24,32054,1335.58,0
+56+,tamil nadu,bill payment,grocery,40,37984,949.6,0
+56+,tamil nadu,bill payment,healthcare,17,13502,794.24,0
+56+,tamil nadu,bill payment,other,16,10983,686.44,0
+56+,tamil nadu,bill payment,shopping,25,49153,1966.12,0
+56+,tamil nadu,bill payment,transport,12,2696,224.67,0
+56+,tamil nadu,bill payment,utilities,10,41523,4152.3,0
+56+,tamil nadu,p2m,education,9,29910,3323.33,0
+56+,tamil nadu,p2m,entertainment,40,8223,205.58,0
+56+,tamil nadu,p2m,food,71,30582,430.73,0
+56+,tamil nadu,p2m,fuel,46,57760,1255.65,0
+56+,tamil nadu,p2m,grocery,93,127581,1371.84,1
+56+,tamil nadu,p2m,healthcare,19,24900,1310.53,0
+56+,tamil nadu,p2m,other,44,35881,815.48,0
+56+,tamil nadu,p2m,shopping,49,100525,2051.53,0
+56+,tamil nadu,p2m,transport,24,5772,240.5,0
+56+,tamil nadu,p2m,utilities,44,144710,3288.86,0
+56+,tamil nadu,p2p,education,19,75894,3994.42,0
+56+,tamil nadu,p2p,entertainment,52,17052,327.92,0
+56+,tamil nadu,p2p,food,70,30136,430.51,0
+56+,tamil nadu,p2p,fuel,49,58921,1202.47,0
+56+,tamil nadu,p2p,grocery,92,88800,965.22,0
+56+,tamil nadu,p2p,healthcare,32,46897,1465.53,0
+56+,tamil nadu,p2p,other,45,27855,619.0,0
+56+,tamil nadu,p2p,shopping,72,131297,1823.57,1
+56+,tamil nadu,p2p,transport,46,11279,245.2,0
+56+,tamil nadu,p2p,utilities,55,200101,3638.2,0
+56+,tamil nadu,recharge,education,3,8620,2873.33,0
+56+,tamil nadu,recharge,entertainment,3,434,144.67,0
+56+,tamil nadu,recharge,food,16,8076,504.75,0
+56+,tamil nadu,recharge,fuel,6,7029,1171.5,0
+56+,tamil nadu,recharge,grocery,14,13098,935.57,0
+56+,tamil nadu,recharge,healthcare,4,4662,1165.5,0
+56+,tamil nadu,recharge,other,9,9452,1050.22,0
+56+,tamil nadu,recharge,shopping,13,15626,1202.0,0
+56+,tamil nadu,recharge,transport,3,856,285.33,0
+56+,tamil nadu,recharge,utilities,9,26473,2941.44,0
+56+,telangana,bill payment,education,7,23268,3324.0,0
+56+,telangana,bill payment,entertainment,19,5737,301.95,0
+56+,telangana,bill payment,food,30,7456,248.53,0
+56+,telangana,bill payment,fuel,19,18877,993.53,0
+56+,telangana,bill payment,grocery,35,34079,973.69,0
+56+,telangana,bill payment,healthcare,7,9872,1410.29,0
+56+,telangana,bill payment,other,14,13035,931.07,0
+56+,telangana,bill payment,shopping,22,35797,1627.14,0
+56+,telangana,bill payment,transport,16,2521,157.56,1
+56+,telangana,bill payment,utilities,16,60733,3795.81,0
+56+,telangana,p2m,education,7,17448,2492.57,0
+56+,telangana,p2m,entertainment,28,7131,254.68,0
+56+,telangana,p2m,food,62,24320,392.26,1
+56+,telangana,p2m,fuel,38,40425,1063.82,0
+56+,telangana,p2m,grocery,88,85555,972.22,0
+56+,telangana,p2m,healthcare,27,36501,1351.89,0
+56+,telangana,p2m,other,37,32028,865.62,1
+56+,telangana,p2m,shopping,53,94955,1791.6,1
+56+,telangana,p2m,transport,34,7150,210.29,0
+56+,telangana,p2m,utilities,37,119633,3233.32,0
+56+,telangana,p2p,education,13,58851,4527.0,0
+56+,telangana,p2p,entertainment,40,10190,254.75,0
+56+,telangana,p2p,food,68,27479,404.1,0
+56+,telangana,p2p,fuel,53,63983,1207.23,0
+56+,telangana,p2p,grocery,112,142602,1273.23,0
+56+,telangana,p2p,healthcare,35,47522,1357.77,0
+56+,telangana,p2p,other,48,30767,640.98,1
+56+,telangana,p2p,shopping,58,80838,1393.76,0
+56+,telangana,p2p,transport,46,7040,153.04,0
+56+,telangana,p2p,utilities,57,167004,2929.89,0
+56+,telangana,recharge,entertainment,8,2337,292.12,0
+56+,telangana,recharge,food,10,4149,414.9,0
+56+,telangana,recharge,fuel,2,1035,517.5,0
+56+,telangana,recharge,grocery,14,12541,895.79,0
+56+,telangana,recharge,other,7,4073,581.86,0
+56+,telangana,recharge,shopping,16,28032,1752.0,0
+56+,telangana,recharge,transport,3,269,89.67,0
+56+,telangana,recharge,utilities,5,12280,2456.0,0
+56+,uttar pradesh,bill payment,education,4,20696,5174.0,0
+56+,uttar pradesh,bill payment,entertainment,19,6601,347.42,0
+56+,uttar pradesh,bill payment,food,25,11460,458.4,1
+56+,uttar pradesh,bill payment,fuel,15,18219,1214.6,0
+56+,uttar pradesh,bill payment,grocery,54,54403,1007.46,0
+56+,uttar pradesh,bill payment,healthcare,7,7707,1101.0,1
+56+,uttar pradesh,bill payment,other,25,14367,574.68,0
+56+,uttar pradesh,bill payment,shopping,33,66067,2002.03,0
+56+,uttar pradesh,bill payment,transport,16,3523,220.19,0
+56+,uttar pradesh,bill payment,utilities,16,53854,3365.88,0
+56+,uttar pradesh,p2m,education,10,35215,3521.5,0
+56+,uttar pradesh,p2m,entertainment,49,14127,288.31,0
+56+,uttar pradesh,p2m,food,80,40742,509.28,1
+56+,uttar pradesh,p2m,fuel,47,46863,997.09,0
+56+,uttar pradesh,p2m,grocery,91,106839,1174.05,0
+56+,uttar pradesh,p2m,healthcare,29,30519,1052.38,0
+56+,uttar pradesh,p2m,other,47,24424,519.66,0
+56+,uttar pradesh,p2m,shopping,47,64913,1381.13,0
+56+,uttar pradesh,p2m,transport,36,8228,228.56,0
+56+,uttar pradesh,p2m,utilities,54,172099,3187.02,0
+56+,uttar pradesh,p2p,education,24,134034,5584.75,0
+56+,uttar pradesh,p2p,entertainment,58,14080,242.76,1
+56+,uttar pradesh,p2p,food,101,42717,422.94,0
+56+,uttar pradesh,p2p,fuel,77,89382,1160.81,0
+56+,uttar pradesh,p2p,grocery,135,159269,1179.77,0
+56+,uttar pradesh,p2p,healthcare,31,37391,1206.16,0
+56+,uttar pradesh,p2p,other,62,38740,624.84,0
+56+,uttar pradesh,p2p,shopping,68,138117,2031.13,0
+56+,uttar pradesh,p2p,transport,38,10347,272.29,0
+56+,uttar pradesh,p2p,utilities,66,214335,3247.5,0
+56+,uttar pradesh,recharge,education,1,3091,3091.0,0
+56+,uttar pradesh,recharge,entertainment,7,2050,292.86,0
+56+,uttar pradesh,recharge,food,11,2144,194.91,0
+56+,uttar pradesh,recharge,fuel,7,9744,1392.0,0
+56+,uttar pradesh,recharge,grocery,11,11343,1031.18,0
+56+,uttar pradesh,recharge,healthcare,8,8769,1096.12,0
+56+,uttar pradesh,recharge,other,3,895,298.33,0
+56+,uttar pradesh,recharge,shopping,7,6827,975.29,0
+56+,uttar pradesh,recharge,transport,6,507,84.5,0
+56+,uttar pradesh,recharge,utilities,5,20790,4158.0,0
+56+,west bengal,bill payment,education,3,9197,3065.67,0
+56+,west bengal,bill payment,entertainment,14,5907,421.93,0
+56+,west bengal,bill payment,food,16,5794,362.12,0
+56+,west bengal,bill payment,fuel,12,13041,1086.75,0
+56+,west bengal,bill payment,grocery,31,29935,965.65,0
+56+,west bengal,bill payment,healthcare,8,9547,1193.38,0
+56+,west bengal,bill payment,other,15,12862,857.47,0
+56+,west bengal,bill payment,shopping,16,19508,1219.25,0
+56+,west bengal,bill payment,transport,14,3138,224.14,0
+56+,west bengal,bill payment,utilities,13,69350,5334.62,0
+56+,west bengal,p2m,education,10,32398,3239.8,0
+56+,west bengal,p2m,entertainment,19,4935,259.74,0
+56+,west bengal,p2m,food,54,25086,464.56,0
+56+,west bengal,p2m,fuel,31,36244,1169.16,0
+56+,west bengal,p2m,grocery,59,71303,1208.53,0
+56+,west bengal,p2m,healthcare,18,25987,1443.72,0
+56+,west bengal,p2m,other,35,25191,719.74,0
+56+,west bengal,p2m,shopping,41,74094,1807.17,0
+56+,west bengal,p2m,transport,36,6525,181.25,0
+56+,west bengal,p2m,utilities,30,87246,2908.2,0
+56+,west bengal,p2p,education,7,30803,4400.43,0
+56+,west bengal,p2p,entertainment,32,7805,243.91,0
+56+,west bengal,p2p,food,66,28683,434.59,0
+56+,west bengal,p2p,fuel,56,72693,1298.09,0
+56+,west bengal,p2p,grocery,83,92133,1110.04,0
+56+,west bengal,p2p,healthcare,19,18727,985.63,0
+56+,west bengal,p2p,other,43,29206,679.21,0
+56+,west bengal,p2p,shopping,48,76210,1587.71,0
+56+,west bengal,p2p,transport,33,7263,220.09,0
+56+,west bengal,p2p,utilities,36,122314,3397.61,0
+56+,west bengal,recharge,education,1,869,869.0,0
+56+,west bengal,recharge,entertainment,5,1285,257.0,0
+56+,west bengal,recharge,food,5,1118,223.6,0
+56+,west bengal,recharge,fuel,3,11161,3720.33,0
+56+,west bengal,recharge,grocery,17,24241,1425.94,0
+56+,west bengal,recharge,healthcare,3,5123,1707.67,0
+56+,west bengal,recharge,other,4,1233,308.25,0
+56+,west bengal,recharge,shopping,5,8802,1760.4,0
+56+,west bengal,recharge,transport,3,1409,469.67,0
+56+,west bengal,recharge,utilities,4,21570,5392.5,0

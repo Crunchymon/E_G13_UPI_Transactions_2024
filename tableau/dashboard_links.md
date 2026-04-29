@@ -1,25 +1,10 @@
 # Tableau Dashboard Links
-
-Use this file to store the final public links for your Tableau deliverables.
-
-## Dashboard Details
-
-| Item | Link | Notes |
-|---|---|---|
-| Tableau Public Dashboard | _Paste URL here_ | _Main submission link_ |
-| Workbook / Story Link | _Paste URL here if applicable_ | _Optional_ |
-| Demo Recording | _Paste URL here if applicable_ | _Optional_ |
-
-## Screenshot Checklist
-
-- Add exported dashboard screenshots to `tableau/screenshots/`
-- Use clear file names such as `executive_view.png` and `regional_drilldown.png`
-- Make sure screenshots match the final public dashboard
-
-
-## Tableau Public Dashboard Links
-
-- **Main Executive Hub**: [Add Link Here]
-- **1. Fraud Intelligence Dashboard**: [Add Link Here]
-- **2. Payment Reliability Dashboard**: [Add Link Here]
-- **3. User Behavior & Growth Dashboard**: [Add Link Here]
+## Fraud Dashboard
+![Fraud Dashboard](/tableau/screenshots/FraudDashboard.jpeg)
+[View Dashboard](https://public.tableau.com/your-dashboard-link)
+## Reliability Dashboard
+![Reliability Dashboard](/tableau/screenshots/ReliabilityDashboard.jpeg)
+[View Dashboard](https://public.tableau.com/app/profile/suryansh.chattree/viz/DVA_Captone_Reliability_Dashboard/Dashboard1?publish=yes)
+## Growth Dashboard
+![Growth Dashboard](/tableau/screenshots/GrowthDashboard.jpeg)
+[View Dashboard](https://public.tableau.com/app/profile/adit.singh6807/viz/dva_17774656624120/Dashboard1?publish=yes)

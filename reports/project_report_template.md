@@ -1,15 +1,27 @@
 # UPI Transaction Intelligence 2024
 
----
+## Report Link : https://drive.google.com/drive/folders/1n0KhEmAv-02wujuHO21iTn-8O-wR0TmH?usp=sharing
 
 ## 1. Cover Page
 
 - **Project Title:** UPI Transaction Intelligence 2024  
 - **Sector:** FinTech / Digital Payments  
-- **Team ID and Members:** _[Add details]_  
-- **Faculty Mentor:** _[Add details]_  
-- **Institute:** _[Add details]_  
-- **Submission Date:** _[Add date]_  
+- **Team ID and Members:** 
+
+  ### Adit Singh
+  adit.singh2024@nst.rishihood.edu.in
+  
+  ### himanshu
+  himanshu.2024@nst.rishihood.edu.in
+  ### Kaavya Gala
+  kaavya.gala2024@nst.rishihood.edu.in
+  ### Naitik pandey
+  naitik.pandey2024@nst.rishihood.edu.in
+  ### Suryansh Chattree
+  suryansh.chattree2024@nst.rishihood.edu.in
+  ### Vansh Jain
+  vansh.jain2024@nst.rishihood.edu.in 
+- **Institute:** Rishihood University, Newton School of Technology 
 
 ---
 

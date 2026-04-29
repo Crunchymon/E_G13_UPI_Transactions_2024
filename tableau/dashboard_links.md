@@ -1,7 +1,7 @@
 # Tableau Dashboard Links
 ## Fraud Dashboard
 ![Fraud Dashboard](/tableau/screenshots/FraudDashboard.jpeg)
-[View Dashboard](https://public.tableau.com/your-dashboard-link)
+[View Dashboard](https://public.tableau.com/app/profile/naitik.pandey7929/viz/Dashboard_fraud_UPI_v2025_3/Dashboard1?publish=yes)
 ## Reliability Dashboard
 ![Reliability Dashboard](/tableau/screenshots/ReliabilityDashboard.jpeg)
 [View Dashboard](https://public.tableau.com/app/profile/suryansh.chattree/viz/DVA_Captone_Reliability_Dashboard/Dashboard1?publish=yes)

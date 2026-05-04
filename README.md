@@ -17,6 +17,17 @@ FinTech / Digital Payments Analytics · Academic Year 2024 · Data Science Proje
 
 ---
 
+# Tableau Dashboard Links
+## Fraud Dashboard
+![Fraud Dashboard](/tableau/screenshots/FraudDashboard.jpeg)
+[View Dashboard](https://public.tableau.com/app/profile/naitik.pandey7929/viz/Dashboard_fraud_UPI_v2025_3/Dashboard1?publish=yes)
+## Reliability Dashboard
+![Reliability Dashboard](/tableau/screenshots/ReliabilityDashboard.jpeg)
+[View Dashboard](https://public.tableau.com/app/profile/suryansh.chattree/viz/DVA_Captone_Reliability_Dashboard/Dashboard1?publish=yes)
+## Growth Dashboard
+![Growth Dashboard](/tableau/screenshots/GrowthDashboard.jpeg)
+[View Dashboard](https://public.tableau.com/app/profile/adit.singh6807/viz/dva_17774656624120/Dashboard1?publish=yes)
+
 ## 1. Executive Summary
 
 The project analyses a **synthetic** dataset of **250,000 UPI transactions** for the full **2024** calendar year. Analysis is organised around three pillars: **Fraud Detection**, **System Reliability**, and **Growth Analytics**.

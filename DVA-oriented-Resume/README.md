@@ -6,4 +6,5 @@ Vansh jain- [DataVisualizationResume.pdf](https://drive.google.com/file/d/1a3I99
 -
 Kaavya Gala - [KaavyaDataVisualizationResume](https://drive.google.com/file/d/1wqonxW84uxIHdkcai5f_gOg5JtrtKx20/view?usp=drive_link)
 -
-
+Adit Singh - [Adit Singh Resume](https://drive.google.com/file/d/1-QGSSJ6JeZmdMSonCqF9oeYHoLBB38lV/view?usp=sharing)
+-

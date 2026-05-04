@@ -46,7 +46,7 @@ The project analyses a **synthetic** dataset of **250,000 UPI transactions** for
 | Growth | Peak age group (value) | 26–35 (~INR 116 Cr) |
 | Growth | Highest avg txn value (category) | Education (~INR 5,094) |
 
-**Key insight:** Fraud is **segment- and behaviour-driven**, not volume-driven. Reliability is **structurally centralised** (SBI ~25% of traffic). Growth is led by **26–45**, while **18–25** drives engagement at lower average values.
+**Key insight:** Fraud is **segment and behaviour-driven**, not volume-driven. Reliability is **structurally centralised** (SBI ~25% of traffic). Growth is led by **26–45**, while **18–25** drives engagement at lower average values.
 
 ---
 

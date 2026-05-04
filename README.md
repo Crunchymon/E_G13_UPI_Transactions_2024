@@ -1,374 +1,268 @@
-# NST DVA Capstone 2 - Project Repository
+# UPI Transaction Intelligence 2024
 
-> **Newton School of Technology | Data Visualization & Analytics**
-> A 2-week industry simulation capstone using Python, GitHub, and Tableau to convert raw data into actionable business intelligence.
+**Newton School of Technology · Rishihood University, Sonipat**  
+FinTech / Digital Payments Analytics · Academic Year 2024 · Data Science Project  
+*(Source: UPI project presentation, April 30, 2026)*
 
----
+## Team
 
-## Before You Start
-
-1. Rename the repository using the format `SectionName_TeamID_ProjectName`.
-2. Fill in the project details and team table below.
-3. Add the raw dataset to `data/raw/`.
-4. Complete the notebooks in order from `01` to `05`.
-5. Publish the final dashboard and add the public link in `tableau/dashboard_links.md`.
-6. Export the final report and presentation as PDFs into `reports/`.
-
-### Quick Start
-
-If you are working locally:
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-jupyter notebook
-```
-
-If you are working in Google Colab:
-
-- Upload or sync the notebooks from `notebooks/`
-- Keep the final `.ipynb` files committed to GitHub
-- Export any cleaned datasets into `data/processed/`
+| Name | Email |
+|------|--------|
+| Adit Singh | adit.singh2024@nst.rishihood.edu.in |
+| Himanshu | himanshu.2024@nst.rishihood.edu.in |
+| Kaavya Gala | kaavya.gala2024@nst.rishihood.edu.in |
+| Naitik Pandey | naitik.pandey2024@nst.rishihood.edu.in |
+| Suryansh Chattree | suryansh.chattree2024@nst.rishihood.edu.in |
+| Vansh Jain | vansh.jain2024@nst.rishihood.edu.in |
 
 ---
 
-## Business Problem
-This project analyzes **250,000 UPI transactions** from 2024 to help stakeholders with **Fraud Detection**, **Payment Reliability**, and **User Growth**.
+## 1. Executive Summary
+
+The project analyses a **synthetic** dataset of **250,000 UPI transactions** for the full **2024** calendar year. Analysis is organised around three pillars: **Fraud Detection**, **System Reliability**, and **Growth Analytics**.
+
+### Top-level KPIs
+
+| Pillar | Metric | Value |
+|--------|--------|--------|
+| Fraud | Overall fraud rate | 0.19% |
+| Fraud | Total fraudulent transactions | 480 |
+| Fraud | Highest state fraud rate | ~0.23% (Karnataka) |
+| Reliability | Overall success rate | 95.05% |
+| Reliability | Overall failure rate | 4.95% |
+| Reliability | SBI traffic share | ~25% |
+| Growth | Total transaction value | ~INR 328 Cr |
+| Growth | Peak age group (value) | 26–35 (~INR 116 Cr) |
+| Growth | Highest avg txn value (category) | Education (~INR 5,094) |
+
+**Key insight:** Fraud is **segment- and behaviour-driven**, not volume-driven. Reliability is **structurally centralised** (SBI ~25% of traffic). Growth is led by **26–45**, while **18–25** drives engagement at lower average values.
 
 ---
 
-## 3 Key Dashboards
+## 2. Sector and Business Context
 
-### 1. Fraud Intelligence Dashboard
-- **Stakeholders**: Law Enforcement, Risk & Compliance Teams
-- Identifies high fraud states, time windows, devices, and patterns.
-- Uses: `fraud_flag`, `sender_state`, `hour_of_day`, `device_type`
+India’s UPI ecosystem is among the world’s largest real-time payment networks. Complexity spans:
 
-### 2. Payment Reliability Dashboard
-- **Stakeholders**: Operations & Engineering Teams (PhonePe, GPay, Banks, NPCI)
-- Shows where and why transactions are failing.
-- Uses: `transaction_status`, `failure_flag`, `is_peak_hour`, `sender_bank`
-
-### 3. User Behavior & Growth Dashboard
-- **Stakeholders**: Product & Growth Teams
-- Helps find high-value user segments and growth opportunities.
-- Uses: `sender_age_group`, `sender_state`, `transaction_type`, `amount_inr`
+1. **Fraud** — Sophisticated digital fraud; stakeholders: risk, compliance, regulators.  
+2. **Reliability** — Real-time distributed system across bank nodes; stakeholders: NPCI, banks, SRE.  
+3. **Growth** — Adoption, frequency, merchant ecosystem; stakeholders: product, business, partnerships.
 
 ---
 
-## Key Features Added
-- Cleaned dataset with derived columns (`failure_flag`, `is_peak_hour`, `user_segment`, etc.)
-- 3 Ready-to-use aggregated files in `data/processed/`
-- Outlier detection & logical consistency checks
+## 3. Data Description and Preprocessing
+
+### 3.1 Dataset overview
+
+| Attribute | Detail |
+|-----------|--------|
+| Total records | 250,000 transactions |
+| Time span | Full calendar year 2024 |
+| Nature | Synthetic |
+| Coverage | Demographics, banks, network, device, transaction details |
+
+### 3.2 Key column groups
+
+- **Time:** `timestamp`, `hour_of_day`, `day_of_week`  
+- **Transaction:** `amount_inr`, `transaction_type`, `merchant_category`  
+- **Segments:** `sender_bank`, `receiver_bank`, `age_group`, `state`  
+- **Risk:** `fraud_flag` (binary fraud label)
+
+### 3.3 Cleaning and feature engineering
+
+- `failure_flag` — from transaction status  
+- `is_peak_hour` — 10:00–13:00 or 17:00–21:00  
+- `amount_bucket` — Small (<500), Medium (500–2K), High (2K–10K), Very High (>10K)  
+- `user_segment` — composite of age group and transaction behaviour
 
 ---
 
-## Folder Structure
-- `data/processed/` → `fraud_aggregated.csv`, `reliability_aggregated.csv`, `user_behavior_aggregated.csv`
-- `notebooks/` → Cleaning + Analysis
-- `tableau/` → Dashboards (to be added)
+## 4. KPI Framework
+
+| Pillar | KPI | Definition |
+|--------|-----|----------------|
+| Fraud | Fraud rate | Fraud txns ÷ Total txns |
+| Fraud | Avg fraud value | Mean `amount_inr` for fraudulent txns |
+| Fraud | Outlier fraud % | Fraud in Very High bucket ÷ all fraud txns |
+| Reliability | Success rate | (Total − Failed) ÷ Total txns |
+| Reliability | Avg throughput | Transactions per hour |
+| Reliability | Peak throughput | Max transactions in any single hour |
+| Growth | Avg transaction value | Mean `amount_inr` per segment |
+| Growth | Segment contribution | Segment value ÷ Total value |
+| Growth | Txns per segment | Count per demographic group |
 
 ---
 
-## Project Overview
-Analyzed 25,000+ UPI transactions from 2024 with 3 business dashboards.
+## 5. Fraud Analysis
 
-| Field | Details |
-|---|---|
-| **Project Title** | _To be filled by team_ |
-| **Sector** | _e.g. Retail, Finance, Healthcare, EdTech_ |
-| **Team ID** | _e.g. DVA-B1-T3_ |
-| **Section** | _To be filled by team_ |
-| **Faculty Mentor** | _To be filled by team_ |
-| **Institute** | Newton School of Technology |
-| **Submission Date** | _To be filled by team_ |
+### 5.1 Overall picture
 
----
+480 fraudulent transactions of 250,000 → **fraud rate 0.19%** (low in absolute terms, non-uniform in distribution).
 
-### Team Members
+**Top states by fraud rate (indicative):**
 
-| Role | Name | GitHub Username |
-|---|---|---|
-| Project Lead | _Name_ | `github-handle` |
-| Data Lead | _Name_ | `github-handle` |
-| ETL Lead | _Name_ | `github-handle` |
-| Analysis Lead | _Name_ | `github-handle` |
-| Visualization Lead | _Name_ | `github-handle` |
-| Strategy Lead | _Name_ | `github-handle` |
-| PPT and Quality Lead | _Name_ | `github-handle` |
+| State | Total txns | Fraud txns | Fraud rate (%) |
+|-------|------------|------------|----------------|
+| Karnataka | 29,756 | 69 | 0.232 |
+| Rajasthan | 19,981 | 46 | 0.230 |
+| Gujarat | 20,061 | 43 | 0.214 |
+| Delhi | 24,870 | 50 | 0.201 |
+| Maharashtra | 37,427 | 71 | 0.190 |
 
----
+### 5.2 Fraud by amount category
 
-## Business Problem
-UPI transactions in India reached massive scale in 2024. Banks, NPCI, and apps like PhonePe, GPay need better insights to stop fraud, improve reliability, and grow business.
+Fraud probability **rises with transaction value** (opportunistic high-value targeting). Rates by bucket trend upward from Small toward Very High.
 
-### 3 Key Dashboards Added:
-1. **Fraud Intelligence Dashboard**  
-   Helps Law Enforcement & Risk teams find where and how fraud is happening.
+### 5.3 Insights and recommendations
 
-2. **Payment Reliability Dashboard**  
-   Helps engineering teams understand why transactions fail and fix them.
+**Insights**
 
-3. **User Behavior & Growth Dashboard**  
-   Helps product teams find which users to target for more transactions.
+- Fraud clusters in **high-value** transactions and **specific states**.  
+- **Karnataka** and **Rajasthan** show the highest fraud rates (~0.23%).  
+- **Minimal time-of-day** dependence → opportunistic behaviour.  
+- Risk is **segment-driven**, not volume-driven.
 
-**Core Business Question**
+**Recommendations**
 
-> _State the single main question your Tableau dashboard and Python analysis will answer._
-
-**Decision Supported**
-
-> _What action or decision will this analysis enable the stakeholder to take?_
+- Segment-aware fraud models emphasising **High / Very High** `amount_bucket`.  
+- Enhanced **KYC** triggers for Karnataka, Rajasthan, and Gujarat.  
+- Real-time **anomaly scoring** for transactions above **INR 10,000**.
 
 ---
 
-## Dataset
+## 6. Reliability Analysis
 
-| Attribute | Details |
-|---|---|
-| **Source Name** | _e.g. World Bank, data.gov.in, Kaggle (raw only)_ |
-| **Direct Access Link** | _Paste the direct download or access URL_ |
-| **Row Count** | _Must be greater than 5,000_ |
-| **Column Count** | _Must be greater than 8 meaningful columns_ |
-| **Time Period Covered** | _e.g. Jan 2019 to Dec 2023_ |
-| **Format** | _e.g. CSV, JSON, Excel_ |
+### 6.1 System-level performance
 
-**Key Columns Used**
+**12,376 failures** out of 250,000 → **failure rate 4.95%**, **success rate 95.05%**.
 
-| Column Name | Description | Role in Analysis |
-|---|---|---|
-| _column_1_ | _What it means_ | _Used for KPI / filter / segmentation_ |
-| _column_2_ | _What it means_ | _Used for KPI / filter / segmentation_ |
-| _column_3_ | _What it means_ | _Used for KPI / filter / segmentation_ |
-| _column_4_ | _What it means_ | _Used for KPI / filter / segmentation_ |
+**Banks (top 5 by volume, illustrative):**
 
-For full column definitions, see [`docs/data_dictionary.md`](docs/data_dictionary.md).
+| Bank | Total txns | Failed txns | Failure rate (%) | Traffic share (%) |
+|------|------------|-------------|------------------|-------------------|
+| SBI | 62,693 | 3,095 | 4.94 | 25.08 |
+| HDFC | 37,485 | 1,808 | 4.82 | 15.00 |
+| ICICI | 29,769 | 1,499 | 5.04 | 11.91 |
+| IndusInd | 25,173 | 1,247 | 4.95 | 10.07 |
+| Axis | 25,042 | 1,239 | 4.95 | 10.02 |
 
----
+### 6.2 Load distribution
 
-## Key KPIs
+Roughly **one quarter** of traffic through **SBI**; top banks account for the majority of volume (remainder “Others” ~28%).
 
-**Fraud Intelligence:**
-- Fraud Rate (%) 
-- Top Fraud States & Hours
-- Fraud by Device Type & Amount
+### 6.3 Peak hours
 
-**Payment Reliability:**
-- Success Rate (%)
-- Failure Rate by Bank, Device & Network
-- Peak Hour Failure Rate
+Peaks align with **10:00–13:00** and **17:00–21:00** (workday and post-work patterns).
 
-**User Behavior & Growth:**
-- Transaction Volume & Value by Age Group & State
-- Most Common Transaction Types
-- High Potential Segments
+### 6.4 Insights and recommendations
+
+**Insights**
+
+- Failure rate **~5%** across dimensions → **system-wide** pattern, not a single weak bank.  
+- **Structural dependence** on SBI (~25% of traffic).  
+- **Dual peaks** support predictable capacity planning.
+
+**Recommendations**
+
+- Infrastructure design assuming **persistent concentration** on SBI.  
+- **Adaptive retry** and **throttling** during peak windows.  
+- Monitoring and alerts on **critical bank-pair** paths.
 
 ---
 
-## KPI Framework
+## 7. Growth Analysis
 
-| KPI | Definition | Formula / Computation |
-|---|---|---|
-| _e.g. Monthly Revenue Growth %_ | _What business outcome this tracks_ | _Show the exact formula or notebook reference_ |
-| _e.g. Customer Churn Rate_ | _What business outcome this tracks_ | _Show the exact formula or notebook reference_ |
-| _e.g. Repeat Purchase Rate_ | _What business outcome this tracks_ | _Show the exact formula or notebook reference_ |
+### 7.1 Age groups
 
-Document KPI logic clearly in `notebooks/04_statistical_analysis.ipynb` and `notebooks/05_final_load_prep.ipynb`.
+| Age group | Total txns | Total value (INR) | Avg txn (INR) | Value share (%) |
+|-----------|------------|-------------------|---------------|-----------------|
+| 18–25 | 62,345 | 74,473,936 | 1,194.5 | 22.7 |
+| 26–35 | 87,432 | 115,959,771 | 1,326.3 | 35.4 |
+| 36–45 | 62,873 | 89,533,745 | 1,424.0 | 27.3 |
+| 46–55 | 24,841 | 33,116,261 | 1,333.1 | 10.1 |
+| 56+ | 12,509 | 14,855,296 | 1,187.6 | 4.5 |
 
----
+*(Total value figures normalised from presentation tables; crore chart values: ~74.5, ~116, ~89.5, ~33.1, ~14.9 Cr by age group.)*
 
-## Tableau Dashboard
+### 7.2 Merchant categories (value)
 
-| Item | Details |
-|---|---|
-| **Dashboard URL** | _Paste Tableau Public link here_ |
-| **Executive View** | _Describe the high-level KPI summary view_ |
-| **Operational View** | _Describe the detailed drill-down view_ |
-| **Main Filters** | _List the interactive filters used_ |
+| Category | Total txns | Total value (INR) | Avg value (INR) |
+|----------|------------|-------------------|-----------------|
+| Shopping | 29,872 | 76,863,207 | 2,573 |
+| Grocery | 49,966 | 58,277,893 | 1,166 |
+| Utilities | 22,338 | 52,742,482 | 2,361 |
+| Fuel | 25,063 | 38,982,575 | 1,555 |
+| Education | 7,598 | 38,704,346 | 5,094 |
+| Other | 24,828 | 21,073,449 | 849 |
+| Food | 37,464 | 19,919,402 | 532 |
+| Entertainment | 20,103 | 8,309,080 | 413 |
 
-Store dashboard screenshots in [`tableau/screenshots/`](tableau/screenshots/) and document the public links in [`tableau/dashboard_links.md`](tableau/dashboard_links.md).
+### 7.3 Insights and recommendations
 
----
+**Insights**
 
-## Key Insights
+- **26–35** holds the largest **value share** (~35%) — core growth segment.  
+- **18–25** has the **most transactions** but **lowest average ticket** — engagement segment.  
+- **Education** has the **highest average** value despite low volume.  
+- **Shopping** and **Utilities** lead on **aggregate value**.
 
-_List 8-12 major findings from the analysis, written in decision language. Each insight should tell the reader what to think or act upon, not merely describe a chart._
+**Recommendations**
 
-1. _Insight 1_
-2. _Insight 2_
-3. _Insight 3_
-4. _Insight 4_
-5. _Insight 5_
-6. _Insight 6_
-7. _Insight 7_
-8. _Insight 8_
-
----
-
-## Recommendations
-
-_Provide 3-5 specific, actionable business recommendations, each linked directly to an insight above._
-
-| # | Insight | Recommendation | Expected Impact |
-|---|---|---|---|
-| 1 | _Which insight does this address?_ | _What should the stakeholder do?_ | _What measurable impact do you expect?_ |
-| 2 | _Which insight does this address?_ | _What should the stakeholder do?_ | _What measurable impact do you expect?_ |
-| 3 | _Which insight does this address?_ | _What should the stakeholder do?_ | _What measurable impact do you expect?_ |
+- Loyalty and premium features for **26–45**.  
+- Monetise **18–25** volume (subscriptions, micro-rewards).  
+- Expand **Education** payment rails.  
+- **Geo-targeted** campaigns in underutilised states.
 
 ---
 
-## Repository Structure
+## 8. Statistical Analysis (summary)
 
-```text
-SectionName_TeamID_ProjectName/
-|
-|-- README.md
-|
-|-- data/
-|   |-- raw/                         # Original dataset (never edited)
-|   `-- processed/                   # Cleaned output from ETL pipeline
-|
-|-- notebooks/
-|   |-- 01_extraction.ipynb
-|   |-- 02_cleaning.ipynb
-|   |-- 03_eda.ipynb
-|   |-- 04_statistical_analysis.ipynb
-|   `-- 05_final_load_prep.ipynb
-|
-|-- scripts/
-|   `-- etl_pipeline.py
-|
-|-- tableau/
-|   |-- screenshots/
-|   `-- dashboard_links.md
-|
-|-- reports/
-|   |-- README.md
-|   |-- project_report_template.md
-|   `-- presentation_outline.md
-|
-|-- docs/
-|   `-- data_dictionary.md
-|
-|-- DVA-oriented-Resume/
-`-- DVA-focused-Portfolio/
-```
+- **Fraud:** Positive correlation of fraud probability with value; **no strong time-of-day** signal (e.g. chi-square **p > 0.05**) → opportunistic, not time-targeted.  
+- **Reliability:** No significant failure-rate differences across banks/devices/network types → **uniform system-wide** pattern; load follows **power-law** (SBI ~25%; top-3 banks **>52%**).  
+- **Growth:** Right-skewed value distribution; high-value categories drive aggregate value; long-tail still contributes non-negligible value.
 
 ---
 
-## Analytical Pipeline
+## 9. Limitations and Next Steps
 
-The project follows a structured 7-step workflow:
+### 9.1 Limitations
 
-1. **Define** - Sector selected, problem statement scoped, mentor approval obtained.
-2. **Extract** - Raw dataset sourced and committed to `data/raw/`; data dictionary drafted.
-3. **Clean and Transform** - Cleaning pipeline built in `notebooks/02_cleaning.ipynb` and optionally `scripts/etl_pipeline.py`.
-4. **Analyze** - EDA and statistical analysis performed in notebooks `03` and `04`.
-5. **Visualize** - Interactive Tableau dashboard built and published on Tableau Public.
-6. **Recommend** - 3-5 data-backed business recommendations delivered.
-7. **Report** - Final project report and presentation deck completed and exported to PDF in `reports/`.
+| Area | Limitation |
+|------|--------------|
+| Data realism | Synthetic data limits causal claims for live UPI |
+| Fraud labels | ~0.19% fraud → severe class imbalance |
+| Infrastructure | No latency, retry, or infra-level metrics |
+| Fraud signals | Binary flag only — no severity or fraud typology |
 
----
+### 9.2 Next steps
 
-## Tech Stack
-
-| Tool | Status | Purpose |
-|---|---|---|
-| Python + Jupyter Notebooks | Mandatory | ETL, cleaning, analysis, and KPI computation |
-| Google Colab | Supported | Cloud notebook execution environment |
-| Tableau Public | Mandatory | Dashboard design, publishing, and sharing |
-| GitHub | Mandatory | Version control, collaboration, contribution audit |
-| SQL | Optional | Initial data extraction only, if documented |
-
-**Recommended Python libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`
+1. Integrate **real-time** metrics (latency, retries, error codes).  
+2. **Predictive load** models for capacity ahead of peaks.  
+3. **A/B experiments** for growth in underutilised segments.  
+4. **ML fraud** models (e.g. XGBoost + SMOTE) on high-value buckets.  
+5. **Multi-year** and **real API** signals for stronger external validity.
 
 ---
 
-## Evaluation Rubric
+## 10. Contribution Matrix
 
-| Area | Marks | Focus |
-|---|---|---|
-| Problem Framing | 10 | Is the business question clear and well-scoped? |
-| Data Quality and ETL | 15 | Is the cleaning pipeline thorough and documented? |
-| Analysis Depth | 25 | Are statistical methods applied correctly with insight? |
-| Dashboard and Visualization | 20 | Is the Tableau dashboard interactive and decision-relevant? |
-| Business Recommendations | 20 | Are insights actionable and well-reasoned? |
-| Storytelling and Clarity | 10 | Is the presentation professional and coherent? |
-| **Total** | **100** | |
-
-> Marks are awarded for analytical thinking and decision relevance, not chart quantity, visual decoration, or code length.
+| Work stream | Description | Lead(s) |
+|-------------|-------------|---------|
+| Data engineering | Cleaning, feature engineering, pipelines | Suryansh Chattree, Naitik Pandey |
+| Fraud analysis | EDA, fraud KPIs, state/segment analysis | Naitik Pandey |
+| Reliability analysis | Failure rates, load distribution | Suryansh Chattree |
+| Growth analysis | Age groups, merchant categories | Adit Singh |
+| Dashboard development | Power BI / Tableau | Suryansh, Naitik, Adit |
+| Report writing | LaTeX report, executive summary | Vansh Jain, Kaavya Gala |
 
 ---
 
-## Submission Checklist
+## 11. Final Positioning
 
-**GitHub Repository**
+The analysis shows **stable aggregate performance** with **structural centralisation**: operational reliability leans on a **few dominant bank nodes** (notably SBI ~25% of traffic), while **fraud** and **growth** remain **segment- and behaviour-driven**.
 
-- [ ] Public repository created with the correct naming convention (`SectionName_TeamID_ProjectName`)
-- [ ] All notebooks committed in `.ipynb` format
-- [ ] `data/raw/` contains the original, unedited dataset
-- [ ] `data/processed/` contains the cleaned pipeline output
-- [ ] `tableau/screenshots/` contains dashboard screenshots
-- [ ] `tableau/dashboard_links.md` contains the Tableau Public URL
-- [ ] `docs/data_dictionary.md` is complete
-- [ ] `README.md` explains the project, dataset, and team
-- [ ] All members have visible commits and pull requests
-
-**Tableau Dashboard**
-
-- [ ] Published on Tableau Public and accessible via public URL
-- [ ] At least one interactive filter included
-- [ ] Dashboard directly addresses the business problem
-
-**Project Report**
-
-- [ ] Final report exported as PDF into `reports/`
-- [ ] Cover page, executive summary, sector context, problem statement
-- [ ] Data description, cleaning methodology, KPI framework
-- [ ] EDA with written insights, statistical analysis results
-- [ ] Dashboard screenshots and explanation
-- [ ] 8-12 key insights in decision language
-- [ ] 3-5 actionable recommendations with impact estimates
-- [ ] Contribution matrix matches GitHub history
-
-**Presentation Deck**
-
-- [ ] Final presentation exported as PDF into `reports/`
-- [ ] Title slide through recommendations, impact, limitations, and next steps
-
-**Individual Assets**
-
-- [ ] DVA-oriented resume updated to include this capstone
-- [ ] Portfolio link or project case study added
+Priorities: **stronger fraud monitoring** on high-value flows, **resilience** for concentrated load, and **targeted growth** in underserved cohorts — to improve **risk posture**, **reliability**, and **revenue potential**.
 
 ---
 
-## Contribution Matrix
-
-This table must match evidence in GitHub Insights, PR history, and committed files.
-
-| Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
-|---|---|---|---|---|---|---|---|
-| _Member 1_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 2_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 3_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 4_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 5_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 6_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-
-_Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
-
-**Team Lead Name:** _____________________________
-
-**Date:** _______________
-
----
-
-## Academic Integrity
-
-All analysis, code, and recommendations in this repository must be the original work of the team listed above. Free-riding is tracked via GitHub Insights and pull request history. Any mismatch between the contribution matrix and actual commit history may result in individual grade adjustments.
-
----
-
-*Newton School of Technology - Data Visualization & Analytics | Capstone 2*
+**Disclaimer:** All data are **synthetic** and for **academic purposes only**.  
+**UPI Transaction Intelligence 2024** · Newton School of Technology, Rishihood University
